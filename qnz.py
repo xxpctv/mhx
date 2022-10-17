@@ -102,12 +102,12 @@
     {"key":"小苹果","name":"🐞小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
     {"key": "小熊", "name": "🐞小熊TV", "type": 3, "api": "csp_Xxys", "searchable": 1, "quickSearch": 1, "filterable": 1,"jar":"https://agit.ai/gggwang/TVboxo3/raw/branch/main/Jar/91d.jar"},
     {"key":"csp_DiDuan","name":"🐞低端影视","api":"csp_Ddrk","type":3,"searchable":0,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/gggwang/TVboxo3/raw/branch/main/Jar/91e.jar"},     {"key": "在线直播（SP）","name": "在线直播（SP）","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1},
-    {"key": "csp_Yisou","name":"🐞易搜盘(SP)","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"8f0b3f0dc1834f309f077ea5549e99a8","jar":"https://agit.ai/gggwang/TVboxo3/raw/branch/main/Jar/0922.jar"},
-    {"key": "csp_Gitcafe","name":"🐞阿里纸条(SP)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0,"ext":"8f0b3f0dc1834f309f077ea5549e99a8","jar":"https://agit.ai/gggwang/TVboxo3/raw/branch/main/Jar/0922.jar"},  
-    {"key": "csp_AliPS","name":"🐞阿里喵搜(SP)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"8f0b3f0dc1834f309f077ea5549e99a8","jar":"https://agit.ai/gggwang/TVboxo3/raw/branch/main/Jar/0922.jar"},
+    {"key": "csp_Yisou","name":"🐞易搜盘(SP)","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/xxpctv/mhx/main/plugin/yp.py","jar":"https://agit.ai/gggwang/TVboxo3/raw/branch/main/Jar/0922.jar"},
+    {"key": "csp_Gitcafe","name":"🐞阿里纸条(SP)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/xxpctv/mhx/main/plugin/yp.py","jar":"https://agit.ai/gggwang/TVboxo3/raw/branch/main/Jar/0922.jar"},  
+    {"key": "csp_AliPS","name":"🐞阿里喵搜(SP)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/xxpctv/mhx/main/plugin/yp.py","jar":"https://agit.ai/gggwang/TVboxo3/raw/branch/main/Jar/0922.jar"},
        
-    {"key":"csp_Zhaozy","name":"找资源(云盘)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext": "8f0b3f0dc1834f309f077ea5549e99a8","jar":"https://agit.ai/gggwang/TVboxo3/raw/branch/main/Jar/0922.jar"},
-    {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext": "8f0b3f0dc1834f309f077ea5549e99a8","jar":"https://agit.ai/gggwang/TVboxo3/raw/branch/main/Jar/0922.jar"},
+    {"key":"csp_Zhaozy","name":"找资源(云盘)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://raw.githubusercontents.com/xxpctv/mhx/main/plugin/yp.py","jar":"https://agit.ai/gggwang/TVboxo3/raw/branch/main/Jar/0922.jar"},
+    {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext": "https://raw.githubusercontents.com/xxpctv/mhx/main/plugin/yp.py","jar":"https://agit.ai/gggwang/TVboxo3/raw/branch/main/Jar/0922.jar"},
   
     {"key":"csp_Mjxq","name":"🐞美剧星球","type": 3,"api": "csp_Mjxq","searchable": 1,"quickSearch": 1,"filterable": 1},
  

@@ -5,11 +5,11 @@
 {"key":"T4_douban","name":"影视推荐💳","type":4,"api":"http://top.fuqizhishi.com/vod","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"t4public","name":"T4公共💳","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=3781469b13074e4cac1e0e7113e4fa20&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
 
-{"key":"Zhaozy","name":"找资源🔍","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"59f75b1fda4d4867a9204107a5cc3a6f"},
-{"key":"AliPS","name":"盘搜🐱","type": 3,"api": "csp_AliPS","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "59f75b1fda4d4867a9204107a5cc3a6f"},
-{"key":"csp_Gitcafe","name":"小纸条🦊","type":3,"api":"csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "59f75b1fda4d4867a9204107a5cc3a6f"},
-{"key":"csp_Yisou","name":"易搜🐱","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":1,"ext":"59f75b1fda4d4867a9204107a5cc3a6f"},
-{"key": "UP云搜","name": "UP云搜🐱","type": 3,"api": "csp_Upyunso","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"59f75b1fda4d4867a9204107a5cc3a6f"},
+{"key":"Zhaozy","name":"找资源🔍","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontents.com/xxpctv/mhx/main/plugin/yp.py"},
+{"key":"AliPS","name":"盘搜🐱","type": 3,"api": "csp_AliPS","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.githubusercontents.com/xxpctv/mhx/main/plugin/yp.py"},
+{"key":"csp_Gitcafe","name":"小纸条🦊","type":3,"api":"csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.githubusercontents.com/xxpctv/mhx/main/plugin/yp.py"},
+{"key":"csp_Yisou","name":"易搜🐱","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontents.com/xxpctv/mhx/main/plugin/yp.py"},
+{"key": "UP云搜","name": "UP云搜🐱","type": 3,"api": "csp_Upyunso","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://raw.githubusercontents.com/xxpctv/mhx/main/plugin/yp.py"},
 {"key": "py_yiso","name": "🌩易搜","type": 3,"api": "py_yiso","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/fenwe/TVBox/raw/branch/master/plugin/py_yiso.py"}, 
 {"key": "py_zhaozy","name": "🌩找资源","type": 3,"api": "py_zhaozy","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/fenwe/TVBox/raw/branch/master/plugin/py_zhaozy.py"}, 
 {"key": "py_pansou","name": "🌩盘搜","type": 3,"api": "py_pansou","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/fenwe/TVBox/raw/branch/master/plugin/py_pansou.py"}, 
@@ -285,7 +285,7 @@
 {"key":"csp_biubiu_夜空","name":"🥒夜空(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://agit.ai/fenwe/TVBox/raw/branch/master/MaooXB2/夜空.json"},
 
 
-{"key":"csp_biubiu_厂长资源-蓝光","name":"🥒厂长资源-蓝光(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/fenwe/TVBox/raw/branch/master/MaooXB2/厂长资源-蓝光.json"},
+{"key":"csp_biubiu_厂长资源-蓝光","name":"🥒厂长资源-蓝光(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/soniczx/tv/raw/branch/master/czzy2.json"},
 {"key":"csp_biubiu_在线之家","name":"🥒在线之家(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/fenwe/TVBox/raw/branch/master/MaooXB2/在线之家.json"},
 {"key":"csp_biubiu_LIBVIO","name":"🥒LIBVIO(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/fenwe/TVBox/raw/branch/master/MaooXB2/LIBVIO.json"},
 {"key":"csp_biubiu_COKEMV","name":"🥒COKEMV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/fenwe/TVBox/raw/branch/master/MaooXB2/COKEMV.json"},
