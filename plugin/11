@@ -2,6 +2,7 @@
 "urls": [
 { "url": "http://刚刚.live/猫", "name": "刚刚接口" }, 
 { "url": "https://神器每日推送.tk/pz.json", "name": "神器接口" }, 
+{ "url": "clan://localhost/JS/js.json", "name": "drpy本地" },
 { "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/xymc.json", "name": "xymc" },
 { "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/fzns.json", "name": "fzns" },
 { "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/ikbb.json", "name": "ikbb" },
@@ -21,6 +22,14 @@
 { "url": "https://notabug.org/ccxktx/boxtv/raw/master/923.json ", "name": "ccxktx18+" },
 { "url": "https://notabug.org/keke9088/mzytvbox/raw/main/Text/pyn0.json ", "name": "keke9088py" },
 { "url": "https://agit.ai/ihymn/tvbox/raw/branch/master/tb.txt ", "name": "ihymn" },
+{ "url": "https://agit.ai/O522/mybox/raw/branch/master/my.json ", "name": "my" },
+{ "url": "https://notabug.org/qizhen15800/My9394/raw/master/ProfessionalEdition.m3u8 ", "name": "My9394" },
+{ "url": "https://agit.ai/xxpctv/diy/raw/branch/master/ceshi/neizhiban383 ", "name": "neizhiban383" },
+{ "url": "https://raw.githubusercontents.com/xxpctv/mhx/main/tnz.py ", "name": "tnzpy " },
+{ "url": "https://raw.githubusercontents.com/xxpctv/mhx/main/qnzm.py ", "name": "qnzmpy " },
+{ "url": "https://raw.iqiq.io/2hacc/TVBox/main/tvbox ", "name": "2哈社区 " },
+
+
 {"url": "https://freed.yuanhsing.cf/TVBox/meowcf.json","name": "🍆CH猫友'"},
 {
             "url": "https://agit.ai/zhoujck/tv/raw/branch/master/box",
