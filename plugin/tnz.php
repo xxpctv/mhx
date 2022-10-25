@@ -1,6 +1,6 @@
 {
   "sites": [
-{"key":"360_spider","name":"360影视","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1"},
+{"key":"360_spider","name":"360影视","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"csp_77","name":"酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Lezhu","name":"乐猪影视","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1}, 
 {"key":"Gitcafe","name":"小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://神器每日推送.tk/json/Biliych.json"},
@@ -30,6 +30,15 @@
 {"key":"DJ-XP-优直播","name":"优直播🏀","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/yzb.py"},
 {"key":"DJ-XP-零点吧","name":"零点吧🏀","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/ldb.py"},
 {"key":"csp_xBPQ_zhi","name":"️抓饭体育🎾","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{\"分类url\":\"https://www.zhuafan.tech/sports-home/category/{cateId}\",\"分类\":\"全部$/all#足球$Football#篮球$Basketball#羽乒$Badminton#台球$Billiards#棒球$Baseball#户外$Outdoors#搏击$Wrestling#综合$Others#棋盘$Boardgame#电竞$Popular#网球$Tennis#排球$Volleyball#聊天$Chat#原声$Acoustic\",\"热门推荐\":\"1\",\"起始页\":\"1\",\"直接播放\":\"1\",\"数组\":\"{&&}\",\"图片\":\"imageUrl\\\":\\\"&&\\\"\",\"标题\":\"cname\\\":\\\"&&\\\"\",\"链接\":\"id\\\":\\\"&&\\\"\",\"链接前缀\":\"https://www.zhuafan.tech/\"}"},
+{"key":"DJ-XP-直播吧","name":"🏀直播8","type":3,"api":"csp_XPathMac","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/zhibo8.json"},
+{"key":"csp_XYQBiu_310直播","name":"⚽三一零","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/310.py","jar": "https://agit.ai/xxpctv/nzhiban/raw/branch/master/dq.html;md5;6D99C46DE900F7B85BBFA8CED2D780B0"},
+
+{"key": "py_jrk","name": "🌩JR直播","type": 3,"api": "py_jrk","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/guozu616/TVbox/raw/branch/main/py/py_jrk.py"}, 
+{"key": "py_yytv","name": "🌩YY直播","type": 3,"api": "py_yytv","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/guozu616/TVbox/raw/branch/main/py/py_yytv.py"}, 
+{"key": "py_qie","name": "🌩QE体育","type": 3,"api": "py_qie","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/guozu616/TVbox/raw/branch/main/py/py_qie.py"},
+{"key": "py_jrskbs","name": "🌩KB直播","type": 3,"api": "py_jrskbs","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/py/py_jrskbs.py"}, 
+{"key": "py_freezb","name": "🌩FR直播","type": 3,"api": "py_freezb","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/py/py_freezb.py"}, 
+
 {"key":"csp_QQ","name":"🐧腾讯视频(官)","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.iqiq.io/liu673cn/box/main/sub/ext/qq_qiyi_mgtv.jpg"},
 {"key":"csp_IQIYI","name":"🥝爱奇艺(官)","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.iqiq.io/liu673cn/box/main/sub/ext/qq_qiyi_mgtv.jpg"},
 {"key":"csp_MGTV","name":"🍋芒果TV(官)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.iqiq.io/liu673cn/box/main/sub/ext/qq_qiyi_mgtv.jpg"},
@@ -38,7 +47,7 @@
 {"key": "py_yiso","name": " 🌩ALI易搜","type": 3,"api": "py_yiso","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/gggwang/TVboxo3/raw/branch/main/Py/py_yiso.py"},   
 {"key": "py_gitcafe","name": " 🌩ALI小纸条","type": 3,"api": "py_gitcafe","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/gggwang/TVboxo3/raw/branch/main/Py/py_gitcafe.py"},
 {"key":"csp_Bili合集","name":" 🅱哔哩哔哩(自制)","type": 3,"api": "csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/O522/mybox/raw/branch/master/B站.txt"},
-
+{"key": "老年人频道","name": "🏮粤剧","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/xxpctv/diy/raw/branch/master/yueju.json","jar":"https://agit.ai/xxpctv/diy/raw/branch/master/ceshi/Bili0825.html;md5;C5C337BB2793598E9AA5953898FBB087"},
 {"key":"csp_Anime1","name":"动漫","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_appysv2_ysp","name":"氢视频(部分翻墙)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://h1080p.com/xgapp.php/v2/"},
 {"key":"csp_Alist","name":"Alist网盘","type":3,"api":"csp_Alist","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/json/Alist.json"},
@@ -139,13 +148,13 @@
 {"key": "csp_xb_真不卡", "name":  "真不卡",  "type": 3,  "api": "csp_XBiu",  "searchable": 1,  "quickSearch": 1,  "filterable": 0,  "ext": "https://www.zbkk.net/vodshow/{cateId}--------{catePg}---.html" },
 {"key": "csp_xb_在线之家", "name":"在线之家",  "type": 3,  "api": "csp_XBiu",  "searchable": 1,  "quickSearch": 1,  "filterable": 0,  "ext": "https://zxzj.vip/vodshow/{cateId}-{area}-------{catePg}---{year}.html" },
 {"key":"py_cctv_full","name":"🌩央视大全py","type": 3,"api": "py_cctv_full","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/xxpctv/diy/raw/branch/master/b2/py_cctv_full.py"},
-{"key" : "py_yixi","name" : "🌩听一席话py","type" : 3,"api" : "py_yixi","searchable" : 1,"quickSearch" : 1,"filterable" : 1,"ext" : "https://agit.ai/138001380000/MHQTV/raw/branch/master/py/py_yixi.py"},
-{"key": " py_bilimd","name": " 🌩哔哩影视py","type": 3,"api": "py_bilimd","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/gggwang/TVboxo3/raw/branch/main/Py/py_bilimd.py"},
-{"key": " py_中医药","name": " 🌩中国医药py","type": 3,"api": "py_中医药","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/gggwang/TVboxo3/raw/branch/main/Py/py_中医药.py"},
-{"key": " py_中国文化","name": "🌩中国文化py","type": 3,"api": "py_中国文化","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/gggwang/TVboxo3/raw/branch/main/Py/py_中国文化.py"},
-{"key":"py_douban","name":"🌩豆瓣影视py","type": 3,"api": "py_douban","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/gggwang/TVboxo3/raw/branch/main/Py/py_douban.py"},
+{"key" : "py_yixi","name" : "🌩一席演讲py","type" : 3,"api" : "py_yixi","searchable" : 1,"quickSearch" : 1,"filterable" : 1,"ext" : "https://agit.ai/xxpctv/nzhiban/raw/branch/master/p/py_yixi.py"},
+{"key": " py_bilimd","name": " 🌩哔哩影视py","type": 3,"api": "py_bilimd","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/PY/py_bilimd.py"},
+{"key": " py_中医药","name": " 🌩中国医药py","type": 3,"api": "py_中医药","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/PY/py_%e4%b8%ad%e5%8c%bb%e8%8d%af.py"},
+{"key": " py_中国文化","name": "🌩中国文化py","type": 3,"api": "py_中国文化","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/PY/py_%e4%b8%ad%e5%9b%bd%e6%96%87%e5%8c%96.py"},
+{"key":"py_douban","name":"🌩豆瓣影视py","type": 3,"api": "py_douban","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/PY/py_douban.py"},
 {"key":"py_cctv","name":"🌩央视频道py","type": 3,"api": "py_cctv","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/fenwe/TVBox/raw/branch/master/plugin/py_cctv.py"},
-{"key": "py_alist","name": "🌩Alist盘","type": 3,"api": "py_alist","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://www.notabug.org/keke9088/mzytvbox/raw/main/Py/py_alist.py"}, 
+{"key": "py_alist","name": "🌩Alist盘","type": 3,"api": "py_alist","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/PY/py_alist.py"}, 
 {"key":"py_douban","name":"🌩豆瓣影视py","type": 3,"api": "py_douban","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/gggwang/TVboxo3/raw/branch/main/Py/py_douban.py"},
 {"key": "py_zxzj","name": "🌩在线之家py","type": 3,"api": "py_zxzj","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/fenwe/TVBox/raw/branch/master/plugin/py_zxzj.py"}, 
 {"key": "py_voflix","name": "🌩Voflixpy","type": 3,"api": "py_voflix","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/fenwe/TVBox/raw/branch/master/plugin/py_voflix.py"}, 
@@ -154,11 +163,11 @@
 {"key": "py_cokemv","name": "🌩COKE影视py","type": 3,"api": "py_cokemv","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/fenwe/TVBox/raw/branch/master/plugin/py_cokemv.py"}, 
 {"key": "py_xmaomi","name": "🌩猫咪影视py","type": 3,"api": "py_xmaomi","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/fenwe/TVBox/raw/branch/master/plugin/py_xmaomi.py"}, 
 {"key": "py_cyys","name": "🌩创艺影视py","type": 3,"api": "py_cyys","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/fenwe/TVBox/raw/branch/master/plugin/py_cyys.py"},
-{"key": "py_kunyu77","name": "🌩酷云七七py","type": 3,"api": "py_kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/fenwe/TVBox/raw/branch/master/plugin/py_kunyu77"},
+{"key": "py_kunyu77","name": "🌩酷云七七py","type": 3,"api": "py_kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/xxpctv/nzhiban/raw/branch/master/p/py_kunyu77.py"},
 {"key": "py_kuaikan","name": "🌩快看影视py","type": 3,"api": "py_kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/fenwe/TVBox/raw/branch/master/plugin/py_kuaikan"},
-{"key":"py_lezhu","name":" 🌩乐猪影视py","type":3,"api":"py_lezhu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/gggwang/TVboxo3/raw/branch/main/Py/py_lezhu.py"},
-{"key":"py_star","name":" 🌩星光影视py","type":3,"api":"py_star","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/gggwang/TVboxo3/raw/branch/main/Py/py_star.py"},
-{"key":"py_cup","name":" 🌩茶杯狐py","type":3,"api":"py_cup","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/gggwang/TVboxo3/raw/branch/main/Py/py_cup.py"},
+{"key":"py_lezhu","name":" 🌩乐猪影视py","type":3,"api":"py_lezhu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/PY/py_lezhu.py"},
+{"key":"py_star","name":" 🌩星光影视py","type":3,"api":"py_star","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/PY/py_star.py"},
+{"key":"py_cup","name":" 🌩茶杯狐py","type":3,"api":"py_cup","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/PY/py_cup.py"},
 {"key": "py_3qu","name": "🌩快播影视py","type": 3,"api": "py_3qu","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/fenwe/TVBox/raw/branch/master/plugin/py_3qu.py"},
 {"key": "py_huya","name": "🌩虎牙直播py","type": 3,"api": "py_huya","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/fenwe/TVBox/raw/branch/master/plugin/py_huya.py"}, 
 {"key": "py_douyu","name": "🌩斗鱼直播py","type": 3,"api": "py_douyu","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/fenwe/TVBox/raw/branch/master/plugin/py_douyu.py"}, 
@@ -186,6 +195,7 @@
 {"key": "csp_xBPQ_电视直播1", "name": "📺电视直播1", "type": 3, "api": "csp_xBPQ", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "{\"分类\":\"电视直播$ys.html#\",\"主页url\":\"http://www.lu1.cc/c/tv/sjtv/\",\"分类url\":\"http://www.lu1.cc/c/tv/sjtv/{cteId}\",\"图片\":\"http://\",\"播放图片\":\"http://\",\"不分线路\":\"1\"}"},  
 {"key": "csp_xBPQ_电视直播2", "name": "📺电视直播2", "type": 3, "api": "csp_xBPQ", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "{\"分类\":\"电视直播$ys.html#\",\"主页url\":\"http://www.lu1.cc/c/tv/sjtv/\",\"分类url\":\"http://www.lu1.cc/c/tv/sjtv/{cteId}\",\"图片\":\"http://\",\"播放图片\":\"http://\",\"不分线路\":\"1\"}"},  
 {"key": "csp_xBPQ_电视直播3", "name": "📺电视直播3", "type": 3, "api": "csp_xBPQ", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "{\"分类\":\"电视直播$ys.html#\",\"主页url\":\"http://www.lu1.cc/c/tv/sjtv/\",\"分类url\":\"http://www.lu1.cc/c/tv/sjtv/{cteId}\",\"图片\":\"http://\",\"播放图片\":\"http://\",\"线路合并\":\"1\"}"},  
+{"key": "csp_XYQ_lu1","name": "️📺柠檬直播","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/XYQHiker/%e6%9f%a0%e6%aa%acTV.json","jar":"https://notabug.org/qizhen15800/My9394/raw/master/jar/XYQPlugin_1023.jar;md5;BE3EF83F48564EE7763B810CB8CCBC53"},
 
 
 {"key":"push_agent","name":"🌩阿里推送py","type": 3,"api": "py_ali","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://agit.ai/fenwe/TVBox/raw/branch/master/plugin/py_ali.py"}, 
@@ -297,6 +307,6 @@
 {"category":1,"name":"dns_cache_timeout","value":"600000000"}
 ]}
 ],
-//"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-"wallpaper":"http://52bsj.vip:82/late",  
+"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
+ 
 "ads":["mimg.0c1q0l.cn","www.googletagmanager.com","www.google-analytics.com","mc.usihnbcq.cn","www.stappupgrade.vivo.com.cn","mg.g1mm3d.cn","www.otheve.beacon.qq.com","mscs.svaeuzh.cn","cnzz.hhttm.top","tp.vinuxhome.com","cnzz.mmstat.com","www.baihuillq.com","s23.cnzz.com","z3.cnzz.com","c.cnzz.com","stj.v1vo.top","z12.cnzz.com","img.mosflower.cn","tips.gamevvip.com","ehwe.yhdtns.com","xdn.cqqc3.com","www.jixunkyy.cn","sp.chemacid.cn","hm.baidu.com","s9.cnzz.com","z6.cnzz.com","um.cavuc.com","mav.mavuz.com","wofwk.aoidf3.com","z5.cnzz.com","xc.hubeijieshikj.cn","tj.tianwenhu.com","xg.gars57.cn","k.jinxiuzhilv.com","cdn.bootcss.com","ppl.xunzhuo123.com","xomk.jiangjunmh.top","img.xunzhuo123.com","z1.cnzz.com","s13.cnzz.com","xg.huataisangao.cn","z7.cnzz.com","xg.huataisangao.cn","z2.cnzz.com","s96.cnzz.com","q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com","z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn","k.wudejia.com","vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com"]}

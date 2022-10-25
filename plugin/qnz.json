@@ -21,12 +21,17 @@
 {"key":"csp_xpath_88kanqiu","name": "⚽看球吧","type": 3,"api": "csp_XPathMac","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/kq88.py"},
 {"key":"DJ-XP-低调看","name":"🏀低调看","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/ddk.py"},
 {"key":"DJ-XP-优直播","name":"🏀优直播","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/yzb.py"},
+
 {"key":"csp_xBPQ_抓饭体育","name":"️🍀抓饭体育","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext": "{\"分类url\":\"https://www.zhuafan.tech/sports-home/category/{cateId}\",\"分类\":\"全部$/all#足球$Football#篮球$Basketball#羽乒$Badminton#台球$Billiards#棒球$Baseball#户外$Outdoors#搏击$Wrestling#综合$Others#棋盘$Boardgame#电竞$Popular#网球$Tennis#排球$Volleyball#聊天$Chat#原声$Acoustic\",\"热门推荐\":\"1\",\"起始页\":\"1\",\"直接播放\":\"1\",\"数组\":\"{&&}\",\"图片\":\"imageUrl\\\":\\\"&&\\\"\",\"标题\":\"cname\\\":\\\"&&\\\"\",\"链接\":\"id\\\":\\\"&&\\\"\",\"链接前缀\":\"https://www.zhuafan.tech/\"}"},
+{"key":"csp_XYQBiu_17看","name":"🏀一起看","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/17.py","jar": "https://agit.ai/xxpctv/nzhiban/raw/branch/master/dq.html;md5;6D99C46DE900F7B85BBFA8CED2D780B0"},
+{"key":"csp_XYQBiu_310直播","name":"⚽三一零","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/310.py","jar": "https://agit.ai/xxpctv/nzhiban/raw/branch/master/dq.html;md5;6D99C46DE900F7B85BBFA8CED2D780B0"},
 {"key": "Gitcafe","name": "🦊ali小纸条","type": 3,"api": "csp_Gitcafe","searchable": 1,"playerType": 1,"quickSearch": 1,"filterable": 1},
 {"key": "找资源","name": "🔍ali找资源","type": 3,"api": "csp_Zhaozy","searchable": 1,"playerType": 1,"quickSearch": 1,"filterable": 1},
 {"key": "upyunsou","name": "🌩aliUp云搜","type": 3,"api": "csp_Upyunso","searchable": 1,"quickSearch": 1,"playerType": 1,"filterable": 0},
 {"key": "yisou","name": "🐱ali易搜","type": 3,"api": "csp_Yisou","searchable": 1,"quickSearch": 1,"playerType": 1,"filterable": 0},
 {"key": "AliPS","name": "🐱Ali盘搜","type": 3,"api": "csp_AliPS","searchable": 1,"playerType": 1,"quickSearch": 1,"filterable": 1},
+{"key":"csp_Bili合集","name":" 🅱️哔哩哔哩(自制)","type": 3,"api": "csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/O522/mybox/raw/branch/master/B站.txt","jar": "https://agit.ai/xxpctv/nzhiban/raw/branch/master/dq.html;md5;6D99C46DE900F7B85BBFA8CED2D780B0"},
+{"key": "老年人频道","name": "🏮粤剧","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/xxpctv/diy/raw/branch/master/yueju.json","jar":"https://agit.ai/xxpctv/diy/raw/branch/master/ceshi/Bili0825.html;md5;C5C337BB2793598E9AA5953898FBB087"},
 
 {"key": "棋牌娱乐","name": "🅱️bili棋牌","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/xxpctv/diy/raw/branch/master/xbiubiu/%e6%a3%8b%e7%89%8c0806.json","jar":"https://agit.ai/xxpctv/diy/raw/branch/master/ceshi/Bili0825.html;md5;C5C337BB2793598E9AA5953898FBB087"},
 {"key": "csp_biubiu_ting","name": "🌿听书网b","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/tingshu.json"},
@@ -59,7 +64,7 @@
 {"key": "csp_xb_23影视","name": " 💠23影视(R)","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://www.23wm.net/vodshow/id/{cateId}/page/{catePg}.html"},
 { "key": "csp_xb_35ju", "name": " 💠星空影院(R)", "type": 3, "api": "csp_XBiu", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://m.7caa.com/list/{cateId}-{catePg}.html"},
 {"key": "csp_xb_fg","name": " 💠疯狗影视(R)","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://m.fenggoudy3.com/list-select-id-{cateId}-type--area--year--star--state--order-addtime-p-{catePg}.html"},
-
+{"key": "csp_xf_cs","name": "️🍂FREEOK(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{\"免嗅\":\"1\",\"播放标题\":\"span>&&<\",\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",\"线路数组\": \"class=\\\"module-tab-item tab-item&&</div>\",\"线路标题\": \"<span>&&</span>\",\"播放数组\":\"class=\\\"module-play-list&&</div>\",\"分类\":\"电影$1#剧集$2#综艺$4#动漫$3#今日更新$38\",\"分类url\":\"https://www.freeok.vip/vodshow/{cateId}--------{catePg}---/\",\"年份\":\"1990-2022\",\"筛选\":\"1\"}"},
 {"key":"csp_XBiu_星空","name":"🛰️星空影院(R)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://m.7caa.com/list/{cateId}-{catePg}.html"},
 
 
@@ -91,7 +96,7 @@
 {"key": "csp_xBPQ_电视直播1", "name": "🍂电视直播", "type": 3, "api": "csp_xBPQ", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "{\"分类\":\"电视直播$ys.html#\",\"主页url\":\"http://www.lu1.cc/c/tv/sjtv/\",\"分类url\":\"http://www.lu1.cc/c/tv/sjtv/{cteId}\",\"图片\":\"http://\",\"播放图片\":\"http://\",\"不分线路\":\"1\"}"},  
 {"key": "csp_xBPQ_电视直播2", "name": "🍂电视直播", "type": 3, "api": "csp_xBPQ", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "{\"分类\":\"电视直播$ys.html#\",\"主页url\":\"http://www.lu1.cc/c/tv/sjtv/\",\"分类url\":\"http://www.lu1.cc/c/tv/sjtv/{cteId}\",\"图片\":\"http://\",\"播放图片\":\"http://\",\"不分线路\":\"1\"}"},  
 {"key": "csp_xBPQ_电视直播3", "name": "🍂电视直播", "type": 3, "api": "csp_xBPQ", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "{\"分类\":\"电视直播$ys.html#\",\"主页url\":\"http://www.lu1.cc/c/tv/sjtv/\",\"分类url\":\"http://www.lu1.cc/c/tv/sjtv/{cteId}\",\"图片\":\"http://\",\"播放图片\":\"http://\",\"线路合并\":\"1\"}"},  
-
+{"key": "csp_XYQ_lu1","name": "️📺柠檬直播","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/XYQHiker/%e6%9f%a0%e6%aa%acTV.json","jar":"https://notabug.org/qizhen15800/My9394/raw/master/jar/XYQPlugin_1023.jar;md5;BE3EF83F48564EE7763B810CB8CCBC53"},
 
 
 {"key":"mtv_pc_小纸条源","name":"搜索┃小纸条源","type":3,"api":"csp_Gitcafe"       ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://刚刚.live/alitoken.json"},
