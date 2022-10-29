@@ -47,6 +47,8 @@
 {"key": "py_yiso","name": " 🌩ALI易搜","type": 3,"api": "py_yiso","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/gggwang/TVboxo3/raw/branch/main/Py/py_yiso.py"},   
 {"key": "py_gitcafe","name": " 🌩ALI小纸条","type": 3,"api": "py_gitcafe","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/gggwang/TVboxo3/raw/branch/main/Py/py_gitcafe.py"},
 {"key":"csp_Bili合集","name":" 🅱哔哩哔哩(自制)","type": 3,"api": "csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/O522/mybox/raw/branch/master/B站.txt"},
+{"key":"舞蹈","name":" 🅱哔哩合集","type": 3,"api": "csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/ext/B站.txt","jar":"https://agit.ai/xxpctv/diy/raw/branch/master/ceshi/Bili0825.html;md5;C5C337BB2793598E9AA5953898FBB087"},
+
 {"key": "老年人频道","name": "🏮粤剧","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/xxpctv/diy/raw/branch/master/yueju.json","jar":"https://agit.ai/xxpctv/diy/raw/branch/master/ceshi/Bili0825.html;md5;C5C337BB2793598E9AA5953898FBB087"},
 {"key":"csp_Anime1","name":"动漫","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_appysv2_ysp","name":"氢视频(部分翻墙)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://h1080p.com/xgapp.php/v2/"},
