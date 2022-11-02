@@ -30,9 +30,55 @@
 {"key":"csp_xBPQ_抓饭体育","name":"️🍀抓饭体育","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext": "{\"分类url\":\"https://www.zhuafan.tech/sports-home/category/{cateId}\",\"分类\":\"全部$/all#足球$Football#篮球$Basketball#羽乒$Badminton#台球$Billiards#棒球$Baseball#户外$Outdoors#搏击$Wrestling#综合$Others#棋盘$Boardgame#电竞$Popular#网球$Tennis#排球$Volleyball#聊天$Chat#原声$Acoustic\",\"热门推荐\":\"1\",\"起始页\":\"1\",\"直接播放\":\"1\",\"数组\":\"{&&}\",\"图片\":\"imageUrl\\\":\\\"&&\\\"\",\"标题\":\"cname\\\":\\\"&&\\\"\",\"链接\":\"id\\\":\\\"&&\\\"\",\"链接前缀\":\"https://www.zhuafan.tech/\"}"},
 {"key":"csp_XYQBiu_17看","name":"🏀一起看","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/17.py","jar": "https://agit.ai/xxpctv/nzhiban/raw/branch/master/dq.html;md5;6D99C46DE900F7B85BBFA8CED2D780B0"},
 {"key":"csp_XYQBiu_310直播","name":"⚽三一零","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/310.py","jar": "https://agit.ai/xxpctv/nzhiban/raw/branch/master/dq.html;md5;6D99C46DE900F7B85BBFA8CED2D780B0"},
+{"key":"drpy_js_JRS看直播","name":"体育|JRS看直播[DRPY]","type":3,"api":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/drpy.min.js","ext":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/JRS%e7%9c%8b%e7%9b%b4%e6%92%ad.js"},
+{"key":"drpy_js_JRS看比赛","name":"体育|JRS看比赛[DRPY]","type":3,"api":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/drpy.min.js","ext":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/JRS%e7%9c%8b%e6%af%94%e8%b5%9b.js"},
+{"key":"drpy_js_310直播","name":"体育|310直播[DRPY]","type":3,"api":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/drpy.min.js","ext":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/310%e7%9b%b4%e6%92%ad.js"},
+{"key":"drpy_js_抓饭体育","name":"体育|抓饭体育[DRPY]","type":3,"api":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/drpy.min.js","ext":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/%e6%8a%93%e9%a5%ad%e4%bd%93%e8%82%b2.js"},
 {"key": "dr_哔哩直播","name": "哔哩直播(drpy)","type": 3,"api": "https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/%e5%93%94%e5%93%a9%e7%9b%b4%e6%92%ad.js"},
 {"key": "dr_兔小贝","name": "兔小贝(drpy)","type": 3,"api": "https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/%e5%85%94%e5%b0%8f%e8%b4%9d.js"},
 {"key": "dr_蜻蜓FM","name": "蜻蜓FM(drpy)","type": 3,"api": "https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/%e8%9c%bb%e8%9c%93FM.js"},
+{
+"key":"drpy_js_360影视",
+"name":"官源|360[DRPY]",
+"type":3,
+"api":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/drpy.min.js",
+"ext":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/360%e5%bd%b1%e8%a7%86.js"
+},
+{
+"key":"drpy_js_爱奇艺",
+"name":"官源|爱奇艺[DRPY]",
+"type":3,
+"api":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/drpy.min.js",
+"ext":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/%e7%88%b1%e5%a5%87%e8%89%ba.js"
+},
+{
+"key":"drpy_js_优酷",
+"name":"官源|优酷[DRPY]",
+"type":3,
+"api":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/drpy.min.js",
+"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/JS/js/优酷.js"
+},
+{
+"key":"drpy_js_腾讯",
+"name":"官源|腾讯[DRPY]",
+"type":3,
+"api":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/drpy.min.js",
+"ext":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/%e8%85%be%e8%ae%af.js"
+},
+{
+"key":"drpy_js_芒果",
+"name":"官源|芒果[DRPY]",
+"type":3,
+"api":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/drpy.min.js",
+"ext":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/%e8%8a%92%e6%9e%9c.js"
+},
+{
+"key":"drpy_js_搜狗",
+"name":"官源|搜狗[DRPY]",
+"type":3,
+"api":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/drpy.min.js",
+"ext":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/%e6%90%9c%e7%8b%97.js"
+},
 {"key": "drpy_js_360影视","name": "360影视[JS]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.js",
 "ext": " https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/360影视.js"},
 {"key": "drpy_js_优酷","name":"优酷[JS]","type": 3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.js",
@@ -41,7 +87,7 @@
 "ext": " https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/奇珍异兽.js"},
 {"key": "drpy_js_腾云驾雾","name": "腾云驾雾[JS]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.js",
 "ext": " https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/腾云驾雾.js"},
-{"key": "dr_优酷2","name": "优酷(drpy)","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.ym.js","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/优酷.js"},
+{"key": "dr_优酷2","name": "优酷(drpy)","type": 3,"api": "https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/drpy.ym.js","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/%e4%bc%98%e9%85%b7.js"},
 {"key": "Gitcafe","name": "🦊ali小纸条","type": 3,"api": "csp_Gitcafe","searchable": 1,"playerType": 1,"quickSearch": 1,"filterable": 1},
 {"key": "找资源","name": "🔍ali找资源","type": 3,"api": "csp_Zhaozy","searchable": 1,"playerType": 1,"quickSearch": 1,"filterable": 1},
 {"key": "upyunsou","name": "🌩aliUp云搜","type": 3,"api": "csp_Upyunso","searchable": 1,"quickSearch": 1,"playerType": 1,"filterable": 0},
