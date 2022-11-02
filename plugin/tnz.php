@@ -108,7 +108,7 @@
 {"key": "csp_xb_23影视","name": " 💠23影视(R)","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://www.23wm.net/vodshow/id/{cateId}/page/{catePg}.html"},
 { "key": "csp_xb_35ju", "name": " 💠星空影院(R)", "type": 3, "api": "csp_XBiu", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://m.7caa.com/list/{cateId}-{catePg}.html"},
 {"key": "csp_xb_fg","name": " 💠疯狗影视(R)","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://m.fenggoudy3.com/list-select-id-{cateId}-type--area--year--star--state--order-addtime-p-{catePg}.html"},
-
+{"key": "csp_xb_在线之家", "name":"💠在线之家",  "type": 3,  "api": "csp_XBiu",  "searchable": 1,  "quickSearch": 1,  "filterable": 0,  "ext": "https://zxzj.vip/vodshow/{cateId}-{area}-------{catePg}---{year}.html" },
 
 {"key": "csp_xb_蓝光1", "name":   "蓝光",  "type": 3,  "api": "csp_XBiu",  "searchable": 1,  "quickSearch": 1,  "filterable": 0,  "ext": "https://www.lgyy.cc/vodshow/{cateId}--------{catePg}---.html" },
 {"key": "csp_xb_柠檬TV", "name":   "柠檬TV",  "type": 3,  "api": "csp_XBiu",  "searchable": 1,  "quickSearch": 1,  "filterable": 0,  "ext": "http://www.lu1.cc/c/tv/sjtv/ys{cateId}.htm" },

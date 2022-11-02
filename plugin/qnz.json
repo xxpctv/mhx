@@ -33,7 +33,15 @@
 {"key": "dr_哔哩直播","name": "哔哩直播(drpy)","type": 3,"api": "https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/%e5%93%94%e5%93%a9%e7%9b%b4%e6%92%ad.js"},
 {"key": "dr_兔小贝","name": "兔小贝(drpy)","type": 3,"api": "https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/%e5%85%94%e5%b0%8f%e8%b4%9d.js"},
 {"key": "dr_蜻蜓FM","name": "蜻蜓FM(drpy)","type": 3,"api": "https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/%e8%9c%bb%e8%9c%93FM.js"},
-
+{"key": "drpy_js_360影视","name": "360影视[JS]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.js",
+"ext": " https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/360影视.js"},
+{"key": "drpy_js_优酷","name":"优酷[JS]","type": 3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.js",
+"ext": " https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/优酷.js"},
+{"key": "drpy_js_奇珍异兽","name": "奇珍异兽[JS]","type": 3,"api": " https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.js",
+"ext": " https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/奇珍异兽.js"},
+{"key": "drpy_js_腾云驾雾","name": "腾云驾雾[JS]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.js",
+"ext": " https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/腾云驾雾.js"},
+{"key": "dr_优酷2","name": "优酷(drpy)","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.ym.js","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/优酷.js"},
 {"key": "Gitcafe","name": "🦊ali小纸条","type": 3,"api": "csp_Gitcafe","searchable": 1,"playerType": 1,"quickSearch": 1,"filterable": 1},
 {"key": "找资源","name": "🔍ali找资源","type": 3,"api": "csp_Zhaozy","searchable": 1,"playerType": 1,"quickSearch": 1,"filterable": 1},
 {"key": "upyunsou","name": "🌩aliUp云搜","type": 3,"api": "csp_Upyunso","searchable": 1,"quickSearch": 1,"playerType": 1,"filterable": 0},
@@ -74,6 +82,8 @@
 {"key": "csp_xb_23影视","name": " 💠23影视(R)","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://www.23wm.net/vodshow/id/{cateId}/page/{catePg}.html"},
 { "key": "csp_xb_35ju", "name": " 💠星空影院(R)", "type": 3, "api": "csp_XBiu", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://m.7caa.com/list/{cateId}-{catePg}.html"},
 {"key": "csp_xb_fg","name": " 💠疯狗影视(R)","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://m.fenggoudy3.com/list-select-id-{cateId}-type--area--year--star--state--order-addtime-p-{catePg}.html"},
+{"key": "csp_xb_在线之家", "name":"🌸在线之家",  "type": 3,  "api": "csp_XBiu",  "searchable": 1,  "quickSearch": 1,  "filterable": 0,  "ext": "https://zxzj.vip/vodshow/{cateId}-{area}-------{catePg}---{year}.html" },
+
 {"key": "csp_xf_cs","name": "️🍂FREEOK(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{\"免嗅\":\"1\",\"播放标题\":\"span>&&<\",\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",\"线路数组\": \"class=\\\"module-tab-item tab-item&&</div>\",\"线路标题\": \"<span>&&</span>\",\"播放数组\":\"class=\\\"module-play-list&&</div>\",\"分类\":\"电影$1#剧集$2#综艺$4#动漫$3#今日更新$38\",\"分类url\":\"https://www.freeok.vip/vodshow/{cateId}--------{catePg}---/\",\"年份\":\"1990-2022\",\"筛选\":\"1\"}"},
 {"key":"csp_XBiu_星空","name":"🛰️星空影院(R)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://m.7caa.com/list/{cateId}-{catePg}.html"},
 
