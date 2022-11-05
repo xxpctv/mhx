@@ -58,8 +58,8 @@
 "key":"drpy_js_优酷",
 "name":"优酷[DRPY]",
 "type":3,
-"api":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/drpy.min.js",
-"ext":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/%e4%bc%98%e9%85%b7.js"
+"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.ym.js",
+"ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/优酷.js"
 },
 {
 "key":"drpy_js_腾讯",
