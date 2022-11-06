@@ -218,6 +218,7 @@
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
 {"name":"💋So丶","type":0,"url":" https://tljiaqing.nde.tw/m3u8/?url="},
+{"name":"keyu3", "type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"flag":[ "qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 {"name":"神1","type":1,"url":"http://api.ckflv.cn/?url="},
 {"name":"神2","type":0,"url":"https://h5.freejson.xyz/player/?url="},
 {"name":"懒懒1","type":1,"url":"http://123.57.56.94:9931/lanlan/?url="},
