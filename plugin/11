@@ -35,7 +35,10 @@
 { "url": "https://agit.ai/hu/hcr/raw/branch/master/py3.txt", "name": "huPY3" },
 { "url": "https://agit.ai/Ltang/Tvsy/raw/branch/master/ystv.json", "name": "ystv" },
 { "url": "https://notabug.org/zqk219/baip/raw/main/Bli/bili.json", "name": "bili集合" },
+{ "url": "https://ghproxy.com/https://raw.githubusercontent.com/vpei/Free-TVUrl-Merge/main/out/tvbox.txt", "name": "tvbox集合" },
 
+{ "url": "https://agit.ai/cn/tv/raw/branch/a/tv.json", "name": "tv" },
+{ "url": "http://2ha.cc/tv ", "name": "2哈社区 " },
 { "url": "https://raw.iqiq.io/2hacc/TVBox/main/tvbox ", "name": "2哈社区 " },
 { "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/t4.json ", "name": "t4 " },
  {"url": "https://agit.ai/fangzimo/TVBox/raw/branch/main/%e7%89%b9%e5%88%ab%e6%8e%a5%e5%8f%a3.json","name": "18++"},
