@@ -24,7 +24,7 @@
 {"key": "csp_AppTT","name":"图图影视","type": 3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 {"key":"T4","name":"🐞T4","type":4,"api":"https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod?sites=all&ali_token=2c9a7fe3ca0a41a29f3491056e8d0796","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_xpath_qiumi","name": "🏀球迷","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/sszb.py"},
+{"key":"csp_xpath_qiumi","name": "🏀球迷","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/sszb.json"},
 {"key":"csp_xpath_88kanqiu","name": "⚽看球吧","type": 3,"api": "csp_XPathMac","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/kq88.py"},
 {"key":"DJ-XP-低调看","name":"🏀低调看","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/ddk.py"},
 {"key":"DJ-XP-优直播","name":"🏀优直播","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/yzb.py"},
@@ -223,7 +223,7 @@
 {"name":"神2","type":0,"url":"https://h5.freejson.xyz/player/?url="},
 {"name":"懒懒1","type":1,"url":"http://123.57.56.94:9931/lanlan/?url="},
 {"name":"懒懒2","type":1,"url":"http://lanlan.ckflv.cn/?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},
-
+{"name": "parwix稳定","type": 0,"url": "https://jx.bozrc.com:4433/player/?url="},
 {"name":"江湖小虾米","type":0,"url":"https://dm.xmflv.com:4433/?url="},
 {"name":"yemu","url": "https://www.yemu.xyz/?url="},
 {"name":"dbapp","url": "https://dbapp.hengj.cn/rr/tg/?url="},
