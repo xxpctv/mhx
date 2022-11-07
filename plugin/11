@@ -3,6 +3,8 @@
 { "url": "http://刚刚.live/猫", "name": "刚刚接口" }, 
 { "url": "https://神器每日推送.tk/pz.json", "name": "神器接口" }, 
 { "url": "clan://localhost/JS/js.json", "name": "drpy本地" },
+
+{ "url": "https://notabug.org/oo/gao/raw/master/js.json", "name": "watson drpy1" },
 {"url": "https://notabug.org/xxpctv/diy/raw/master/mao/py.py","name": "央视py"},
 {"url": "https://notabug.org/thb666/Cat/raw/master/JS/tv-js.json","name": "drpy"},
 { "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/xymc.json", "name": "xymc" },
@@ -27,6 +29,8 @@
 { "url": "https://agit.ai/bhmdeep/tv2/raw/branch/master/XC.json ", "name": "bhmdeep18+" },
 { "url": "https://agit.ai/chefan/chefantv20221015/raw/branch/master/meow.txt ", "name": "chefan" },
 { "url": "https://notabug.org/ccxktx/boxtv/raw/master/923.json ", "name": "ccxktx18+" },
+{ "url": "https://notabug.org/oo/gao/raw/master/9918.json ", "name": "gao18+" },
+
 { "url": "https://notabug.org/keke9088/mzytvbox/raw/main/Text/pyn0.json ", "name": "keke9088py" },
 { "url": "https://agit.ai/ihymn/tvbox/raw/branch/master/tb.txt ", "name": "ihymn" },
 { "url": "https://agit.ai/O522/mybox/raw/branch/master/my.json ", "name": "my" },
@@ -38,6 +42,10 @@
 { "url": "https://ghproxy.com/https://raw.githubusercontent.com/vpei/Free-TVUrl-Merge/main/out/tvbox.txt", "name": "tvbox集合" },
 
 { "url": "https://agit.ai/cn/tv/raw/branch/a/tv.json", "name": "tv" },
+{ "url": "https://notabug.org/oo/gao/raw/master/0820.json", "name": "0820WEWA" },
+{ "url": "https://notabug.org/oo/gao/raw/master/0820.txt", "name": "0820唐三" },
+{ "url": "https://notabug.org/oo/gao/raw/master/0829.json", "name": "0829俊于" },
+{ "url": "https://notabug.org/oo/gao/raw/master/xBPQ.json", "name": "xBPQ" },
 { "url": "http://101.34.67.237/config/3", "name": "💎道长T4线路"},
 { "url": "http://111.67.196.181/mtv/meow.txt", "name": "🐹太阳线路"},
 { "url": "http://47.242.90.42:8888/down/BJZPa8THuiE9", "name": "☀️星辰"},
