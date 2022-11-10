@@ -7,6 +7,8 @@
 { "url": "https://notabug.org/oo/gao/raw/master/js.json", "name": "watson drpy1" },
 {"url": "https://notabug.org/xxpctv/diy/raw/master/mao/py.py","name": "央视py"},
 {"url": "https://notabug.org/thb666/Cat/raw/master/JS/tv-js.json","name": "drpy"},
+{"url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json","name": "Yoursmile7XC"},
+
 { "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/xymc.json", "name": "xymc" },
 { "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/fzns.json", "name": "fzns" },
 { "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/ikbb.json", "name": "ikbb" },
@@ -40,7 +42,7 @@
 { "url": "https://agit.ai/Ltang/Tvsy/raw/branch/master/ystv.json", "name": "ystv" },
 { "url": "https://notabug.org/zqk219/baip/raw/main/Bli/bili.json", "name": "bili集合" },
 { "url": "https://ghproxy.com/https://raw.githubusercontent.com/vpei/Free-TVUrl-Merge/main/out/tvbox.txt", "name": "tvbox集合" },
-
+{ "url": "https://agit.ai/long/ts/raw/branch/master/tang.json", "name": "tang" },
 { "url": "https://agit.ai/cn/tv/raw/branch/a/tv.json", "name": "tv" },
 { "url": "https://notabug.org/oo/gao/raw/master/0820.json", "name": "0820WEWA" },
 { "url": "https://notabug.org/oo/gao/raw/master/0820.txt", "name": "0820唐三" },
