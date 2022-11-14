@@ -237,7 +237,6 @@
 {"name": "ts5","type": 1,"url": "http://rxjx.kuanjv.com/allm3u8.php?url="},
 {"name":"公益1","type":1,"url":"http://3.37.195.161:54371/parse/api/江湖.js?url=","header":{"User-Agent":"Mozilla/5.0"}},
 {"name":"公益2","type":1,"url":"http://3.37.195.161:54371/parse/api/无名.js?url=","header":{"User-Agent":"Mozilla/5.0"}},
-", "sohu", "搜狐", "letv", "乐视", "xigua", "CL4K", "西瓜" ] } }, 
 
 {"name":"hfys","type":1,"url":"http://119.91.206.244:9999/jx/hfys.php?url=","ext": {"flag": ["duoduozy", "renrenmi","ltnb","miaoparty","miaoparty2","miaoparty3","laodiyun","laodim3u8","lekanzyw","rx","CL4K","fuckapp","1080P", "wuduzy"]}},
 {"name": "dygfsdy","type": 1,"url": "http://jx.dygfsdy.com/home/api?type=ys&uid=129415&key=acdmoruwxCDEKPZ679&url=","ext": {"flag": ["qq","腾讯","letv","乐视","mgtv","芒果","youku","优酷","qiyi","iqiyi","爱奇艺","奇艺"]}},
