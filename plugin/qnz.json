@@ -36,7 +36,7 @@
 {"key":"drpy_js_抓饭体育","name":"抓饭体育[DRPY]","type":3,"api":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/drpy.min.js","ext":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/%e6%8a%93%e9%a5%ad%e4%bd%93%e8%82%b2.js"},
 {"key":"drpy_js_JRS录像","name":"JRS录像[DRPY]","type":3,"api":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/drpy.min.js","ext":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/JRS%e5%bd%95%e5%83%8f.js"},
 {"key":"drpy_js_学生球赛录像","name":"学生球赛录像[DRPY]","type":3,"api":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/drpy.min.js","ext":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/%e5%ad%a6%e7%94%9f%e7%90%83%e8%b5%9b%e5%bd%95%e5%83%8f.js"},
-
+{"key": "YQK_spider","name": "🏀一起看TV","api": "csp_YQKAPP","type": 3,"filterable": 1,"playerType": 2,"quickSearch": 1,"searchable": 1,"ext": "https://api-tx.shumaxc.xyz","jar": "https://download.kstore.space/download/2883/1121qpy.jar;md5;1c8bcbb4ac6ca9f5926f32fb6c5aff21"},
 {"key": "dr_哔哩直播","name": "哔哩直播(drpy)","type": 3,"api": "https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/%e5%93%94%e5%93%a9%e7%9b%b4%e6%92%ad.js"},
 {"key": "dr_兔小贝","name": "兔小贝(drpy)","type": 3,"api": "https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/%e5%85%94%e5%b0%8f%e8%b4%9d.js"},
 {"key": "dr_蜻蜓FM","name": "蜻蜓FM(drpy)","type": 3,"api": "https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/%e8%9c%bb%e8%9c%93FM.js"},
@@ -213,6 +213,7 @@
 {"name": "ts2","type": 1,"url": "http://123.57.56.94:9931/lanlan/?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header": {"User-Agent": "okhttp/4.1.0"}}},
 {"name": "ts5","type": 1,"url": "http://rxjx.kuanjv.com/allm3u8.php?url="},
 {"name":"左岸","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=2100&my=cqrtwyACDGLOXY0249&mgtv=app&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","CL4K","renrenmi","ltnb","bilibili","1905","xigua"]}},
+{"name":"db","type": 0,"url": "http://vip.26db.cn/g/?url="},
 {"name":"💋So丶","type":0,"url":" https://tljiaqing.nde.tw/m3u8/?url="},
 {"name":"神1","type":1,"url":"http://api.ckflv.cn/?url="},
 {"name":"神2","type":0,"url":"https://h5.freejson.xyz/player/?url="},
