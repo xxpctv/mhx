@@ -9,6 +9,7 @@
 {"url": "https://notabug.org/thb666/Cat/raw/master/JS/tv-js.json","name": "drpy"},
 {"url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json","name": "Yoursmile7XC"},
 
+{"url": "https://agit.ai/relax/adcc/raw/branch/master/tvbox.json","name": "巧技接口"},
 { "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/xymc.json", "name": "xymc" },
 { "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/fzns.json", "name": "fzns" },
 { "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/ikbb.json", "name": "ikbb" },
@@ -36,7 +37,7 @@
 { "url": "https://notabug.org/keke9088/mzytvbox/raw/main/Text/pyn0.json ", "name": "keke9088py" },
 { "url": "https://agit.ai/ihymn/tvbox/raw/branch/master/tb.txt ", "name": "ihymn" },
 { "url": "https://agit.ai/O522/mybox/raw/branch/master/my.json ", "name": "my" },
-{ "url": "https://notabug.org/qizhen15800/My9394/raw/master/ProfessionalEdition.m3u8 ", "name": "My9394" },
+{ "url": "https://notabug.org/qizhen15800/My9394/raw/master/ProfessionalEdition.m3u8", "name": "My9394" },
 { "url": "https://notabug.org/qizhen15800/My9394/raw/master/PY201010.json", "name": "My9394PY" },
 { "url": "https://agit.ai/hu/hcr/raw/branch/master/py3.txt", "name": "huPY3" },
 { "url": "https://agit.ai/Ltang/Tvsy/raw/branch/master/ystv.json", "name": "ystv" },
