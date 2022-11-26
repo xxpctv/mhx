@@ -1,8 +1,9 @@
 {
 "urls": [
-{ "url": "http://刚刚.live/猫", "name": "刚刚接口" }, 
+{ "url": "https://download.kstore.space/download/2883/%E4%B8%96%E7%95%8C%E6%9D%AF%E7%9B%B4%E6%92%AD.json", "name": "世界杯直播" }, 
 { "url": "https://神器每日推送.tk/pz.json", "name": "神器接口" }, 
 { "url": "clan://localhost/JS/js.json", "name": "drpy本地" },
+{ "url": "https://notabug.org/ygfxz/6/raw/main/000.m3u8", "name": "一个分享者" },
 
 { "url": "https://notabug.org/oo/gao/raw/master/js.json", "name": "watson drpy1" },
 {"url": "https://notabug.org/xxpctv/diy/raw/master/mao/py.py","name": "央视py"},
@@ -33,6 +34,7 @@
 { "url": "https://agit.ai/chefan/chefantv20221015/raw/branch/master/meow.txt ", "name": "chefan" },
 { "url": "https://notabug.org/ccxktx/boxtv/raw/master/923.json ", "name": "ccxktx18+" },
 { "url": "https://notabug.org/oo/gao/raw/master/9918.json ", "name": "gao18+" },
+{ "url": "https://agit.ai/kans/TVb/raw/branch/master/1822.json", "name": "1822" },
 
 { "url": "https://notabug.org/keke9088/mzytvbox/raw/main/Text/pyn0.json ", "name": "keke9088py" },
 { "url": "https://agit.ai/ihymn/tvbox/raw/branch/master/tb.txt ", "name": "ihymn" },
