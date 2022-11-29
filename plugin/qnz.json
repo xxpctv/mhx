@@ -24,6 +24,7 @@
 {"key": "dr_JRKAN直播","name": "🏀球赛直播(drpy)","type": 3,"api": "https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/JRKAN.js"},
 {"key": "csp_xpath_qiumi","name":"🏀球赛直播","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/sszb.json"},
 {"key":"csp_xpath_88kanqiu","name": "⚽看球吧","type": 3,"api": "csp_XPathMac","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/kq88.py"},
+{"key":"csp_XPath3_88","name":"⚽看球8","type":3,"api":"XPath3","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://神器每日推送.tk/xp/88看球.json"},
 {"key": "dr_88看球","name": "⚽看球吧(drpy)","type": 3,"api": "https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/88.js"},
 {"key":"DJ-XP-低调看","name":"🏀低调看","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/ddk.py"},
 {"key":"DJ-XP-优直播","name":"🏀优直播","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/yzb.py"},
