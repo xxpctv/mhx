@@ -22,6 +22,7 @@
 {"key":"csp_Auete" ,"name":"Auete","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Bttoo" ,"name":"两个BT","type": 3,"api": "csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_AppTT","name":"图图影视","type": 3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key":"lz","name":"🏀足球篮球回放","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0,"categories":["足球","篮球"]},
 {"key": "YQK_spider","name": "🏀一起看TV","api": "csp_YQKAPP","type": 3,"filterable": 1,"playerType": 2,"quickSearch": 1,"searchable": 1,"ext": "https://api-tx.shumaxc.xyz","jar": "https://download.kstore.space/download/2883/1121qpy.jar;md5;1c8bcbb4ac6ca9f5926f32fb6c5aff21"},
 {"key":"T4","name":"🐞T4","type":4,"api":"https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod?sites=all&ali_token=2c9a7fe3ca0a41a29f3491056e8d0796","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xpath_qiumi","name": "🏀球迷","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/sszb.json"},
