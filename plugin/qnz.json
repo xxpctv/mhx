@@ -14,10 +14,10 @@
 {"key":"T4","name":"推荐T4🐞","type":4,"api":"https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod?sites=all&ali_token=2c9a7fe3ca0a41a29f3491056e8d0796","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"douban","name":"💳豆瓣荐片","type":4,"api":"https://t4.secan.icu/vod?sites=all&timeout=7","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"T4_douban","name":"🌐影视推荐","type":4,"api":"http://top.fuqizhishi.com/vod","searchable":1,"quickSearch":1,"filterable":0},
-{"key": "csp_Kunyu77","name": "⚡七七资源","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://agit.ai/ihymn/tvbox/raw/branch/master/神器.jar;md5;22457DA8260B31204A0E322FAE0C6D6F"},
+{"key": "csp_Kunyu77","name": "⚡七七资源","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://xn--m7r412advb92j21st65a.tk/vod;md5;C4BA98711FAC35DAFF17780D0817F5DC"},
 {"key":"多多","name":"⚡极速资源","type":1,"api":"https://ddzyz1.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["国产剧","港台剧","日韩剧","欧美剧","纪录片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","犯罪片","悬疑片","动画片","泰国剧","国产动漫","日韩动漫","欧美动漫","惊悚片","奇幻片","冒险片","武侠片","海外剧","国内综艺","海外综艺"]},
 {"key":"csp_xigua26","name":"🍉西瓜影视","type":1,"api":"https://xigua26.com/api.php/provides/vod/","searchable":1,"quickSearch":1,"date":"2022-09-18 18:45:13"},
-{"key":"LiteApple","name":"🍏小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/ihymn/tvbox/raw/branch/master/神器.jar;md5;22457DA8260B31204A0E322FAE0C6D6F"},
+{"key":"LiteApple","name":"🍏小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://xn--m7r412advb92j21st65a.tk/vod;md5;C4BA98711FAC35DAFF17780D0817F5DC"},
 {"key": "SPQQ","name": "🐧腾讯影视","type": 3,"api": "csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "SPIQY","name": "🥝奇异影视","type": 3,"api": "csp_IQIYI","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "SPMGTV","name": "🍋芒果影视","type": 3,"api": "csp_MGTV","searchable": 1,"quickSearch": 1,"filterable": 1},
@@ -31,18 +31,18 @@
 {"key":"DJ-XP-优直播","name":"🏀优直播","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/yzb.py"},
 
 {"key":"csp_xBPQ_抓饭体育","name":"️🍀抓饭体育","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext": "{\"分类url\":\"https://www.zhuafan.tech/sports-home/category/{cateId}\",\"分类\":\"全部$/all#足球$Football#篮球$Basketball#羽乒$Badminton#台球$Billiards#棒球$Baseball#户外$Outdoors#搏击$Wrestling#综合$Others#棋盘$Boardgame#电竞$Popular#网球$Tennis#排球$Volleyball#聊天$Chat#原声$Acoustic\",\"热门推荐\":\"1\",\"起始页\":\"1\",\"直接播放\":\"1\",\"数组\":\"{&&}\",\"图片\":\"imageUrl\\\":\\\"&&\\\"\",\"标题\":\"cname\\\":\\\"&&\\\"\",\"链接\":\"id\\\":\\\"&&\\\"\",\"链接前缀\":\"https://www.zhuafan.tech/\"}"},
-{"key":"csp_XYQBiu_17看","name":"🏀一起看","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://codeberg.org/xxpctv/ck/raw/branch/main/ms/17k.py","jar": "https://agit.ai/xxpctv/nzhiban/raw/branch/master/dq.html;md5;6D99C46DE900F7B85BBFA8CED2D780B0"},
-{"key":"csp_XYQBiu_310直播","name":"⚽三一零","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://codeberg.org/xxpctv/ck/raw/branch/main/ms/310.py","jar": "https://agit.ai/xxpctv/nzhiban/raw/branch/master/dq.html;md5;6D99C46DE900F7B85BBFA8CED2D780B0"},
-{"key":"drpy_js_JRS看直播","name":"JRS看直播[DRPY]","type":3,"api":"https://codeberg.org/xxpctv/ck/raw/branch/main/ms/drpy.min.js","ext":"https://agit.ai/1414108336/dr_py/raw/branch/master/js/JRKAN%e7%9b%b4%e6%92%ad.js"},
+{"key":"csp_XYQBiu_17看","name":"🏀一起看","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://codeberg.org/xxpctv/ck/raw/branch/main/ms/17k.py","jar": "https://xn--m7r412advb92j21st65a.tk/vod;md5;C4BA98711FAC35DAFF17780D0817F5DC"},
+{"key":"csp_XYQBiu_310直播","name":"⚽三一零","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://codeberg.org/xxpctv/ck/raw/branch/main/ms/310.py","jar": "https://xn--m7r412advb92j21st65a.tk/vod;md5;C4BA98711FAC35DAFF17780D0817F5DC"},
+{"key":"drpy_js_JRS看直播","name":"JRS看直播[DRPY]","type":3,"api":"https://codeberg.org/xxpctv/ck/raw/branch/main/ms/drpy.min.js","ext":"https://notabug.org/qizhen15800/My9394/raw/master/js/JRKAN%e7%9b%b4%e6%92%ad.js"},
 {"key":"drpy_js_JRS看比赛","name":"JRS看比赛[DRPY]","type":3,"api":"https://codeberg.org/xxpctv/ck/raw/branch/main/ms/drpy.min.js","ext":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/JRS%e7%9c%8b%e6%af%94%e8%b5%9b.js"},
 {"key":"drpy_js_310直播","name":"310直播[DRPY]","type":3,"api":"https://codeberg.org/xxpctv/ck/raw/branch/main/ms/drpy.min.js","ext":"https://codeberg.org/xxpctv/ck/raw/branch/main/ms/310zb.js"},
 {"key":"drpy_js_抓饭体育","name":"抓饭体育[DRPY]","type":3,"api":"https://codeberg.org/xxpctv/ck/raw/branch/main/ms/drpy.min.js","ext":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/%e6%8a%93%e9%a5%ad%e4%bd%93%e8%82%b2.js"},
 {"key":"drpy_js_JRS录像","name":"JRS录像[DRPY]","type":3,"api":"https://codeberg.org/xxpctv/ck/raw/branch/main/ms/drpy.min.js","ext":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/JRS%e5%bd%95%e5%83%8f.js"},
-{"key":"drpy_js_学生球赛录像","name":"学生球赛录像[DRPY]","type":3,"api":"https://codeberg.org/xxpctv/ck/raw/branch/main/ms/drpy.min.js","ext":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/%e5%ad%a6%e7%94%9f%e7%90%83%e8%b5%9b%e5%bd%95%e5%83%8f.js"},
+{"key":"drpy_js_学生球赛录像","name":"学生球赛录像[DRPY]","type":3,"api":"https://codeberg.org/xxpctv/ck/raw/branch/main/ms/drpy.min.js","ext":"https://notabug.org/qizhen15800/My9394/raw/master/js/%e5%ad%a6%e7%94%9f%e7%90%83%e8%b5%9b%e5%bd%95%e5%83%8f[js1].js"},
 {"key":"drpy_js_88看球","name":"🎥88看球","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/raw/master/js/88看球.js"},
-{"key": "dr_哔哩直播","name": "哔哩直播(drpy)","type": 3,"api": "https://codeberg.org/xxpctv/ck/raw/branch/main/ms/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/%e5%93%94%e5%93%a9%e7%9b%b4%e6%92%ad.js"},
-{"key": "dr_兔小贝","name": "兔小贝(drpy)","type": 3,"api": "https://codeberg.org/xxpctv/ck/raw/branch/main/ms/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/%e5%85%94%e5%b0%8f%e8%b4%9d.js"},
-{"key": "dr_蜻蜓FM","name": "蜻蜓FM(drpy)","type": 3,"api": "https://codeberg.org/xxpctv/ck/raw/branch/main/ms/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/%e8%9c%bb%e8%9c%93FM.js"},
+{"key": "dr_哔哩直播","name": "哔哩直播(drpy)","type": 3,"api": "https://codeberg.org/xxpctv/ck/raw/branch/main/ms/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/js/%e5%93%94%e5%93%a9%e7%9b%b4%e6%92%ad.js"},
+{"key": "dr_兔小贝","name": "兔小贝(drpy)","type": 3,"api": "https://codeberg.org/xxpctv/ck/raw/branch/main/ms/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/js/%e5%85%94%e5%b0%8f%e8%b4%9d.js"},
+{"key": "dr_蜻蜓FM","name": "蜻蜓FM(drpy)","type": 3,"api": "https://codeberg.org/xxpctv/ck/raw/branch/main/ms/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/js/%e8%9c%bb%e8%9c%93FM.js"},
 {
 "key":"drpy_js_360影视",
 "name":"360[DRPY]",
@@ -55,7 +55,7 @@
 "name":"爱奇艺[DRPY]",
 "type":3,
 "api":"https://codeberg.org/xxpctv/ck/raw/branch/main/ms/drpy.min.js",
-"ext":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/%e7%88%b1%e5%a5%87%e8%89%ba.js"
+"ext":"https://notabug.org/qizhen15800/My9394/raw/master/js/%e5%a5%87%e7%8f%8d%e5%bc%82%e5%85%bd.js"
 },
 {
 "key":"drpy_js_优酷",
@@ -70,21 +70,21 @@
 "name":"腾讯[DRPY]",
 "type":3,
 "api":"https://codeberg.org/xxpctv/ck/raw/branch/main/ms/drpy.min.js",
-"ext":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/%e8%85%be%e8%ae%af.js"
+"ext":"https://notabug.org/qizhen15800/My9394/raw/master/js/%e8%85%be%e4%ba%91%e9%a9%be%e9%9b%be.js"
 },
 {
 "key":"drpy_js_芒果",
 "name":"芒果[DRPY]",
 "type":3,
 "api":"https://codeberg.org/xxpctv/ck/raw/branch/main/ms/drpy.min.js",
-"ext":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/%e8%8a%92%e6%9e%9c.js"
+"ext":"https://notabug.org/qizhen15800/My9394/raw/master/js/%e7%99%be%e5%bf%99%e6%97%a0%e6%9e%9c.js"
 },
 {
 "key":"drpy_js_搜狗",
 "name":"搜狗[DRPY]",
 "type":3,
-"api":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/drpy.min.js",
-"ext":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/%e6%90%9c%e7%8b%97.js"
+"api":"https://codeberg.org/xxpctv/ck/raw/branch/main/ms/drpy.min.js",
+"ext":"https://notabug.org/qizhen15800/My9394/raw/master/js/%e8%8f%9c%e7%8b%97.js"
 },
 {"key": "drpy_js_360影视","name": "360影视[JS]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.js",
 "ext": " https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/360影视.js"},
