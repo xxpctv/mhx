@@ -1,6 +1,6 @@
 {
 "urls": [
-{"url": "https://agit.ai/xxpctv/nzhiban/raw/branch/master/cybb.bmp","name": "茶园"},
+{"url": "https://ghproxy.com/https://raw.githubusercontent.com/xxpctv/mhx/main/plugin/cybb.json","name": "茶园"},
 {"url": "https://agit.ai/xxpctv/nzhiban/raw/branch/master/cyb.bmp","name": "茶园py"},
 {"url": "https://notabug.org/xxpctv/diy/raw/master/mao/py.py","name": "央视py"},
 {"url": "https://notabug.org/thb666/Cat/raw/master/JS/tv-js.json","name": "drpy"},
