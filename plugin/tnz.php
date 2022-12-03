@@ -23,7 +23,7 @@
 {"key":"csp_Bttoo" ,"name":"两个BT","type": 3,"api": "csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_AppTT","name":"图图影视","type": 3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"lz","name":"🏀足球篮球回放","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0,"categories":["足球","篮球"]},
-{key:'世界杯',name:'🏀一起看世界杯',type:'3',api:'csp_Dora',searchable:'1',quickSearch:'1',filterable:'1',ext:'8e3aefcba838d8dc5102ac786719d837',jar:'https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/jar/6g60qhd0.jar;md5;c9ddec5d203a6235c0bae3d3527b940a''},
+{"key":"世界杯","name":"🏀一起看世界杯","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"8e3aefcba838d8dc5102ac786719d837","jar":"https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/jar/6g60qhd0.jar;md5;c9ddec5d203a6235c0bae3d3527b940a"},
 {"key":"T4","name":"🐞T4","type":4,"api":"https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod?sites=all&ali_token=2c9a7fe3ca0a41a29f3491056e8d0796","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xpath_qiumi","name": "🏀球迷","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://codeberg.org/xxpctv/ck/raw/branch/main/ms/sszb.jsonn"},
 {"key":"csp_xpath_88kanqiu","name": "⚽看球吧","type": 3,"api": "csp_XPathMac","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://codeberg.org/xxpctv/ck/raw/branch/main/ms/kq88.py"},
