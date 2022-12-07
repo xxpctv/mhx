@@ -36,6 +36,7 @@
 { "url": "https://notabug.org/oo/gao/raw/master/9918.json ", "name": "gao18+" },
 { "url": "https://agit.ai/kans/TVb/raw/branch/master/1822.json", "name": "1822" },
 
+{ "url": "https://agit.ai/Ltang/Tvsy/raw/branch/master/py.json ", "name": "Tvsypy" },
 { "url": "https://notabug.org/keke9088/mzytvbox/raw/main/Text/pyn0.json ", "name": "keke9088py" },
 { "url": "https://agit.ai/ihymn/tvbox/raw/branch/master/tb.txt ", "name": "ihymn" },
 { "url": "https://agit.ai/O522/mybox/raw/branch/master/my.json ", "name": "my" },
