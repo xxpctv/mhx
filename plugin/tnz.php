@@ -25,7 +25,7 @@
 {"key":"lz","name":"🏀足球篮球回放","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0,"categories":["足球","篮球"]},
 {"key":"世界杯","name":"🏀一起看世界杯","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"8e3aefcba838d8dc5102ac786719d837","jar":"https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/jar/6g60qhd0.jar;md5;c9ddec5d203a6235c0bae3d3527b940a"},
 {"key":"T4","name":"🐞T4","type":4,"api":"https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod?sites=all&ali_token=2c9a7fe3ca0a41a29f3491056e8d0796","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_xpath_qiumi","name": "🏀球迷","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://codeberg.org/xxpctv/ck/raw/branch/main/ms/sszb.jsonn"},
+{"key":"csp_xpath_qiumi","name": "🏀球迷","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://codeberg.org/xxpctv/ck/raw/branch/main/ms/sszb.json"},
 {"key":"csp_xpath_88kanqiu","name": "⚽看球吧","type": 3,"api": "csp_XPathMac","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://codeberg.org/xxpctv/ck/raw/branch/main/ms/kq88.py"},
 {"key":"csp_xpath_qiumi2","name":"⚽看球8","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://神器每日推送.tk/xp/88看球.json"},
 {"key":"DJ-XP-低调看","name":"🏀低调看","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/ddk.py"},
@@ -240,7 +240,7 @@
 
 {"name": "酷享","type": 1,"url": "http://pandown.pro/app/kxjx.php?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 {"name": "分享者","type": 1,"url": "http://110.42.2.115:880/analysis/json/?uid=2100&my=cqrtwyACDGLOXY0249&mgtv=app&url=","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","CL4K","renrenmi","ltnb","bilibili","1905","xigua"]}},
-
+{"name":"Q1解析","type":1,"url":"https://parse.ikunfk.cc/parse/sign/812a0f3b8a7ae9dbf90f3d7fac9c8cbc?url=","header":{"User-Agent":"Mozilla/5.0"}},
 {"name":"keyu3", "type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"flag":[ "qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 {"name": "rx2","type": 1,"url": "http://rxjx.kuanjv.com/allm3u8.php?url="}, 
 {"name": "ts1","type": 1,"url": "http://jx.vipmv.co/json.php?token=123457&url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header": {"User-Agent": "okhttp/4.1.0"}}},
