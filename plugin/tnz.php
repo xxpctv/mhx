@@ -114,7 +114,7 @@
 { "key": "csp_xb_35ju", "name": " 💠星空影院(R)", "type": 3, "api": "csp_XBiu", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://m.7caa.com/list/{cateId}-{catePg}.html"},
 {"key": "csp_xb_fg","name": " 💠疯狗影视(R)","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://m.fenggoudy3.com/list-select-id-{cateId}-type--area--year--star--state--order-addtime-p-{catePg}.html"},
 {"key": "csp_xb_在线之家", "name":"💠在线之家",  "type": 3,  "api": "csp_XBiu",  "searchable": 1,  "quickSearch": 1,  "filterable": 0,  "ext": "https://zxzj.vip/vodshow/{cateId}-{area}-------{catePg}---{year}.html" },
-
+{"key":"csp_xbb_稀饭影视","name":"🍀稀饭影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://xn--m7r412advb92j21st65a.tk/xb/稀饭影视.json"},
 {"key": "csp_xb_蓝光1", "name":   "蓝光",  "type": 3,  "api": "csp_XBiu",  "searchable": 1,  "quickSearch": 1,  "filterable": 0,  "ext": "https://www.lgyy.cc/vodshow/{cateId}--------{catePg}---.html" },
 {"key": "csp_xb_柠檬TV", "name":   "柠檬TV",  "type": 3,  "api": "csp_XBiu",  "searchable": 1,  "quickSearch": 1,  "filterable": 0,  "ext": "http://www.lu1.cc/c/tv/sjtv/ys{cateId}.htm" },
 {"key": "csp_xb_黑洞1", "name":   "黑洞",  "type": 3,  "api": "csp_XBiu",  "searchable": 1,  "quickSearch": 1,  "filterable": 0,  "ext": "https://www.nulltm.com/vodshow/{cateId}--------{catePg}---.html" },
@@ -211,9 +211,9 @@
 //{"key" : "py_cctvjs","name" : "📺央视军事 py","type" : 3,"api" : "py_cctv","searchable" : 0,"quickSearch" : 0,"filterable" : 1,"ext" : "https://agit.ai/l/o/raw/branch/o/o/py_cctvjs.py"},
 //{"key" : "py_cctvxq","name" : "📺央视戏曲 py","type" : 3,"api" : "py_cctv","searchable" : 0,"quickSearch" : 0,"filterable" : 1,"ext" : "https://agit.ai/l/o/raw/branch/o/o/py_cctvxq.py"},
 {"key": "dr_玄天","name": "🕋玄天影视dr","type": 1,"api": "http://www.fenwe.tk:5705/vod?rule=玄天","searchable": 2,"quickSearch": 0,"filterable": 0},
-{"key":"mtv_pc_小纸条源","name":"搜索┃小纸条源","type":3,"api":"csp_Gitcafe"       ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
-{"key":"mtv_pc_阿里盘搜","name":"搜索┃阿里盘搜","type":3,"api":"csp_AliPS"         ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
-{"key":"mtv_pc_易搜资源","name":"搜索┃易搜资源","type":3,"api":"csp_Yiso"          ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
+{"key":"mtv_pc_小纸条源","name":"搜索┃小纸条源","type":3,"api":"csp_Gitcafe"       ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ali.饭太硬.ml/tok"},
+{"key":"mtv_pc_阿里盘搜","name":"搜索┃阿里盘搜","type":3,"api":"csp_AliPS"         ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ali.饭太硬.ml/tok"},
+{"key":"mtv_pc_易搜资源","name":"搜索┃易搜资源","type":3,"api":"csp_Yiso"          ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ali.饭太硬.ml/tok"},
 {"key":"mtv_pc_找资源搜","name":"搜索┃找资源搜","type":3,"api":"csp_Zhaozy"        ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
 
 {"key": "csp_xBPQ_电视直播1", "name": "🖥️电视直播1", "type": 3, "api": "csp_xBPQ", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "{\"分类\":\"电视直播$ys.html#\",\"主页url\":\"http://www.lu1.cc/c/tv/sjtv/\",\"分类url\":\"http://www.lu1.cc/c/tv/sjtv/{cteId}\",\"图片\":\"http://\",\"播放图片\":\"http://\",\"不分线路\":\"1\"}"},  
