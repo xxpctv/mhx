@@ -81,7 +81,7 @@
 },
 {"key":"drpy_js_搜狗","name":"搜狗[DRPY]","type":3,"api":"https://codeberg.org/xxpctv/ck/raw/branch/main/ms/drpy.min.js","ext":"https://notabug.org/qizhen15800/My9394/raw/master/js/%e8%8f%9c%e7%8b%97.js"},
 {"key":"csp_GitCafe","name":"📜纸条┃云盘","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ali.饭太硬.ml/tok"},
-{"key":"AliPS","name":"😻盘搜","type":3,"api":"csp_AliPS","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
+{"key":"AliPS","name":"😻盘搜","type":3,"api":"csp_AliPS","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt","jar":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;370C6D18EABFC24B6CD8038DA8433E37"},
 {"key":"Gitcafe","name":"📜小纸条","type": 3,"api":"csp_Gitcafe","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
 {"key":"FindZY","name":"🦊找资源","type":3,"api":"csp_Zhaozy","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
 {"key":"csp_Yisou","name":"🆎易搜","type":3,"api":"csp_Yisou","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},

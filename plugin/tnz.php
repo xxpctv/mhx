@@ -4,9 +4,15 @@
 {"key":"csp_77","name":"酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Lezhu","name":"乐猪影视","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1}, 
 {"key":"Gitcafe","name":"小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ali.饭太硬.ml/tok"},
+{"key":"csp_Yisou","name":"易搜","type":3,"api":"csp_Yisou","searchable":1,"playerType":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
+
 {"key":"dr_豆瓣","name":"💳豆瓣","type":3,"api":"https://gitee.com/lytv/tv/raw/master/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://gitee.com/lytv/tv/raw/master/%E8%B1%86%E7%93%A3.js"},
 {"key":"js豆瓣","name":"🅱豆瓣热播┃D首页","type":3,"api":"http://xn--m7r412advb92j21st65a.tk/dr/影魔.js","ext":"http://xn--m7r412advb92j21st65a.tk/dr/js/豆瓣.js","searchable": 0,"quickSearch": 0,"filterable": 0},
-
+{"key":"AliPS","name":"😻盘搜","type":3,"api":"csp_AliPS","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
+{"key":"Gitcafe","name":"📜小纸条","type": 3,"api":"csp_Gitcafe","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
+{"key":"FindZY","name":"🦊找资源","type":3,"api":"csp_Zhaozy","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
+{"key":"csp_Yisou","name":"🆎易搜","type":3,"api":"csp_Yisou","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
+{"key":"csp_Upyunso","name":"☁️Up云搜","type":3,"api":"csp_Upyunso","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
 {"key":"csp_xp_gongreng","name":"工人影视","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xpath/%e5%b7%a5%e4%ba%ba.json"},
 {"key": "csp_xBPQ_007影视", "name": "007影视", "type": 3, "api": "csp_XBiu", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://www.007ts.me/channel/{cateId}-{catePg}.html"},  
 {"key":"csp_dd5555","name":"555影视","api":"csp_Dy555","type":3,"filterable":1,"quickSearch": 1,"searchable":1},
@@ -48,7 +54,7 @@
 {"key":"csp_MGTV","name":"🍋芒果TV(官)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.iqiq.io/liu673cn/box/main/sub/ext/qq_qiyi_mgtv.jpg"},
 {"key": "py_zhaozy","name": " 🌩ALI找资源","type": 3,"api": "py_zhaozy","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/PY/py_zhaozy.py"},
 {"key": "py_pansou","name": " 🌩ALI盘搜","type": 3,"api": "py_pansou","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/PY/py_pansou.py"},
-{"key": "py_yiso","name": " 🌩ALI易搜","type": 3,"api": "py_yiso","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/PY/py_yiso.py"},   
+{"key": "py_yiso","name": " 🌩ALI易搜","type": 3,"api": "py_yiso","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://https://notabug.org/qizhen15800/My9394/raw/master/PY/py_gitcafe.pynotabug.org/qizhen15800/My9394/raw/master/PY/py_yiso.py"},   
 {"key": "py_gitcafe","name": " 🌩ALI小纸条","type": 3,"api": "py_gitcafe","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/PY/py_gitcafe.py"},
 {"key":"csp_Bili合集","name":" 🅱️哔哩哔哩(自制)","type": 3,"api": "csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://codeberg.org/xxpctv/ck/raw/branch/main/ms/B%E7%AB%99.txt","jar": "https://codeberg.org/xxpctv/ck/raw/branch/main/ms/bili1080.jar;md5;E80798750ECA57470F29D1942BCE39BB"},
 {"key":"舞蹈","name":" 🅱哔哩合集","type": 3,"api": "csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://codeberg.org/xxpctv/ck/raw/branch/main/ms/B%E7%AB%992.txt","jar":"https://codeberg.org/xxpctv/ck/raw/branch/main/ms/bili1080.jar;md5;E80798750ECA57470F29D1942BCE39BB"},
@@ -70,7 +76,6 @@
 //{"key":"T4_douban","name":"影视推荐(T4)","type":4,"api":"http://top.fuqizhishi.com/vod","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"AliPS","name":"盘搜","type":3,"api":"csp_AliPS","searchable":1,"playerType":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
 {"key":"FindZY","name":"找资源","type":3,"api":"csp_Zhaozy","searchable":1,"playerType":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
-{"key":"csp_Yisou","name":"易搜","type":3,"api":"csp_Yisou","searchable":1,"playerType":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
 {"key":"csp_Upyunso","name":"UP云搜","type":3,"api":"csp_Upyunso","searchable":1,"playerType":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
 
 {"key":"csp_xp_剧白白","name":"剧白白┃XPMF","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/xpath/%e5%89%a7%e7%99%bd%e7%99%bd.json"},
