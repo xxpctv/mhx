@@ -16,7 +16,7 @@
 {"key":"多多","name":"⚡极速资源","type":1,"api":"https://ddzyz1.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["国产剧","港台剧","日韩剧","欧美剧","纪录片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","犯罪片","悬疑片","动画片","泰国剧","国产动漫","日韩动漫","欧美动漫","惊悚片","奇幻片","冒险片","武侠片","海外剧","国内综艺","海外综艺"]},
 {"key":"csp_xigua26","name":"🍉西瓜影视","type":1,"api":"https://xigua26.com/api.php/provides/vod/","searchable":1,"quickSearch":1,"date":"2022-09-18 18:45:13"},
 {"key":"LiteApple","name":"🍏小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://xn--m7r412advb92j21st65a.tk/vod;md5;C4BA98711FAC35DAFF17780D0817F5DC"},
-{"key": "SPQQ","name": "🐧腾讯影视","type": 3,"api": "csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "SPQQ","name": "🐧腾讯视频","type": 3,"api": "csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/新视觉.jar"},
 {"key": "SPIQY","name": "🥝奇异影视","type": 3,"api": "csp_IQIYI","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "SPMGTV","name": "🍋芒果影视","type": 3,"api": "csp_MGTV","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "dr_JRKAN直播","name": "🏀球赛直播(drpy)","type": 3,"api": "https://codeberg.org/xxpctv/ck/raw/branch/main/ms/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://codeberg.org/xxpctv/ck/raw/branch/main/ms/JRKAN.js"},
