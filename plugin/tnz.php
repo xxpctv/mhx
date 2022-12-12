@@ -53,7 +53,7 @@
 {"key": "py_qie","name": "🌩QE体育","type": 3,"api": "py_qie","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/PY/py_qie.py"},
 {"key": "py_freezb","name": "🌩FR直播","type": 3,"api": "py_freezb","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/PY/py_freezb.py"},
 {"key":"csp_Dy1010","name":"🔟双十","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_QQ","name":"🐧腾讯视频(官)","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/xxpctv/diy/raw/branch/master/test/my417.html;md5;1C1482FF646CC40E1F924EBE320822BC"},
+{"key": "SPQQ","name": "🐧腾讯视频","type": 3,"api": "csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/sxj;md5;EDAAC605B8F6C297B19D34464721F869"},
 {"key":"csp_IQIYI","name":"🥝爱奇艺(官)","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.iqiq.io/liu673cn/box/main/sub/ext/qq_qiyi_mgtv.jpg"},
 {"key":"csp_MGTV","name":"🍋芒果TV(官)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.iqiq.io/liu673cn/box/main/sub/ext/qq_qiyi_mgtv.jpg"},
 {"key":"csp_Bili合集","name":" 🅱️哔哩哔哩(自制)","type": 3,"api": "csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://codeberg.org/xxpctv/ck/raw/branch/main/ms/B%E7%AB%99.txt","jar": "https://codeberg.org/xxpctv/ck/raw/branch/main/ms/bili1080.jar;md5;E80798750ECA57470F29D1942BCE39BB"},

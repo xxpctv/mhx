@@ -64,7 +64,7 @@
 {"key":"csp_Bd","name":"💥bidi","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Nmys","name":"🥝农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Nmys.json"},
 {"key":"csp_Bttoo","name":"✌两个BT","type": 3,"api": "csp_Bttoo","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key":"csp_QQ","name":"腾讯🐧","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/xxpctv/diy/raw/branch/master/test/my417.html;md5;1C1482FF646CC40E1F924EBE320822BC"},
+{"key": "SPQQ","name": "🐧腾讯视频","type": 3,"api": "csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/sxj;md5;EDAAC605B8F6C297B19D34464721F869"},
 {"key":"csp_IQIYI","name":"奇异🥝","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/xxpctv/diy/raw/branch/master/test/my417.html;md5;1C1482FF646CC40E1F924EBE320822BC"},
 {"key":"csp_MGTV","name":"芒果🍋","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/xxpctv/diy/raw/branch/master/test/my417.html;md5;1C1482FF646CC40E1F924EBE320822BC"},
 
