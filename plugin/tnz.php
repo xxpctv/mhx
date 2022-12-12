@@ -236,7 +236,9 @@
 {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":1,"playerType":1,"quickSearch":1,"filterable":0}
 
 ],
- "spider":"https://codeberg.org/xxpctv/ck/raw/branch/main/ms/465;md5;F13C4E7787CFE144974C0625EDD12C4C",
+"spider":"https://codeberg.org/xxpctv/ck/raw/branch/main/ms/505;md5;370C6D18EABFC24B6CD8038DA8433E37",
+
+ //"spider":"https://codeberg.org/xxpctv/ck/raw/branch/main/ms/465;md5;F13C4E7787CFE144974C0625EDD12C4C",
 "lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3h4cGN0di9kaXkvcmF3L2JyYW5jaC9tYXN0ZXIvdGVzdC9kcy50eHQ="]}]}],
 "rules" : [{"host" : "*","rule" : ["douyinvod.com","/video/tos/cn/"]},{"host" : "*","rule" : ["default.365yg.com","/video/tos/cn/"]},{"host" : "umkan.com","rule" : ["play.videomiao.vip/API.php","time=","key=","path="]},{"host" : "*","rule" : ["/m3u8.php","path="]},{"host" : "zjmiao.com","rule" : ["play.videomiao.vip/API.php","time=","key=","path="]}],
 "parses":[
