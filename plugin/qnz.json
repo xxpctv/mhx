@@ -79,14 +79,8 @@
 "api":"https://codeberg.org/xxpctv/ck/raw/branch/main/ms/drpy.min.js",
 "ext":"https://notabug.org/qizhen15800/My9394/raw/master/js/%e7%99%be%e5%bf%99%e6%97%a0%e6%9e%9c.js"
 },
-{
-"key":"drpy_js_搜狗",
-"name":"搜狗[DRPY]",
-"type":3,
-"api":"https://codeberg.org/xxpctv/ck/raw/branch/main/ms/drpy.min.js",
-"ext":"https://notabug.org/qizhen15800/My9394/raw/master/js/%e8%8f%9c%e7%8b%97.js"
-},
-
+{"key":"drpy_js_搜狗","name":"搜狗[DRPY]","type":3,"api":"https://codeberg.org/xxpctv/ck/raw/branch/main/ms/drpy.min.js","ext":"https://notabug.org/qizhen15800/My9394/raw/master/js/%e8%8f%9c%e7%8b%97.js"},
+{"key":"csp_GitCafe","name":"📜纸条┃云盘","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ali.饭太硬.ml/tok"},
 {"key":"csp_Bili合集","name":" 🅱️哔哩哔哩(自制)","type": 3,"api": "csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://codeberg.org/xxpctv/ck/raw/branch/main/ms/B%E7%AB%99.txt","jar": "https://codeberg.org/xxpctv/ck/raw/branch/main/ms/bili1080.jar;md5;E80798750ECA57470F29D1942BCE39BB"},
 {"key":"舞蹈","name":" 🅱哔哩合集","type": 3,"api": "csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://codeberg.org/xxpctv/ck/raw/branch/main/ms/B%E7%AB%992.txt","jar":"https://codeberg.org/xxpctv/ck/raw/branch/main/ms/bili1080.jar;md5;E80798750ECA57470F29D1942BCE39BB"},
 {"key": "老年人频道","name": "🏮粤剧","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://codeberg.org/xxpctv/ck/raw/branch/main/ms/yueju.json","jar":"https://codeberg.org/xxpctv/ck/raw/branch/main/ms/bili1080.jar;md5;E80798750ECA57470F29D1942BCE39BB"},
