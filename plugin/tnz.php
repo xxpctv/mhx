@@ -3,8 +3,6 @@
 {"key":"360_spider","name":"360影视","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"csp_77","name":"酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Lezhu","name":"乐猪影视","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1}, 
-//{"key":"Gitcafe","name":"小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ali.饭太硬.ml/tok"},
-//{"key":"csp_Yisou","name":"易搜","type":3,"api":"csp_Yisou","searchable":1,"playerType":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
 {"key":"csp_xpath_qiumi","name": "🏀球迷","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://codeberg.org/xxpctv/ck/raw/branch/main/ms/sszb.json"},
 {"key":"快看","name":"🎈快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Czsapp","name":"🏭厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
@@ -68,10 +66,6 @@
 {"key": "赛车","name": " 🅱越野","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://codeberg.org/xxpctv/ck/raw/branch/main/ms/yueye.json","jar":"https://codeberg.org/xxpctv/ck/raw/branch/main/ms/bili1080.jar;md5;E80798750ECA57470F29D1942BCE39BB"},
 
 {"key":"csp_Anime1","name":"动漫","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"filterable": 1},
-
-//{"key":"AliPS","name":"盘搜","type":3,"api":"csp_AliPS","searchable":1,"playerType":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
-//{"key":"FindZY","name":"找资源","type":3,"api":"csp_Zhaozy","searchable":1,"playerType":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
-//{"key":"csp_Upyunso","name":"UP云搜","type":3,"api":"csp_Upyunso","searchable":1,"playerType":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
 
 {"key":"csp_xp_剧白白","name":"剧白白┃XPMF","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/xpath/%e5%89%a7%e7%99%bd%e7%99%bd.json"},
 {"key":"csp_xBPQ_达达龟","name":" 达达龟┃xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/ddgui.json"},	  	  
@@ -172,13 +166,13 @@
 {"key":"py_歌手合集","name":"🅱️音乐┃歌手合集","type":3,"api":"py_yanchh","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/PY/歌手合集.py"},
 {"key":"py_女团热舞","name":"🅱️女团┃女团热舞","type":3,"api":"py_Nvtuan","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/PY/女团热舞.py"},
 {"key":"py_歌曲MTV","name":"🅱️音乐┃歌曲MTV","type":3,"api":"py_MTV","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/PY/歌曲MTV.py"},
-{"key":"py_音乐合集","name":"🅱️音乐┃音乐合集","type":3,"api":"py_Yinl2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/PY/音乐合集.py"}
+{"key":"py_音乐合集","name":"🅱️音乐┃音乐合集","type":3,"api":"py_Yinl2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/PY/音乐合集.py"},
 {"key":"csp_py_企鹅体育","name":"🍏企鹅┃企鹅体育","type":3,"api":"py_qie","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/PY/%e4%bc%81%e9%b9%85%e4%bd%93%e8%82%b2.py"},
 {"key":"csp_py_哔哩哔哩","name":"🍏哔哩┃哔哩哔哩","type":3,"api":"py_bilibili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/PY/py_bilibili.py"},
 {"key":"csp_py_豆瓣影视","name":"🍏首页┃豆瓣影视","type":3,"api":"py_douban","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/PY/py_douban.py"},
 {"key":"csp_py_哔哩影视","name":"🍏哔哩┃哔哩影视","type":3,"api":"py_bilimd","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/PY/py_bilimd.py"},
 {"key":"csp_py_央视大全","name":"🍏央视┃央视大全","type":3,"api":"py_cctv_full","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/PY/py_cctv_full.py"},
-//{"key":"py_cctv_full","name":"🌩央视大全py","type": 3,"api": "py_cctv_full","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/PY/py_cctv_full.py"},
+{"key":"py_cctv_full","name":"🌩央视大全py","type": 3,"api": "py_cctv_full","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/PY/py_cctv_full.py"},
 {"key" : "py_yixi","name" : "🌩一席演讲py","type" : 3,"api" : "py_yixi","searchable" : 1,"quickSearch" : 1,"filterable" : 1,"ext" : "https://notabug.org/qizhen15800/My9394/raw/master/PY/py_yixi.py"},
 {"key":"py_douban","name":"🌩豆瓣影视py","type": 3,"api": "py_douban","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/PY/py_douban.py"},
 {"key": "py_cctv","name": "❤️央视频道py","type": 3,"api": "py_cctv","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/py_cctv.py"}, 
@@ -202,18 +196,7 @@
 {"key":"csp_py_央视军事","name":"📺PY┃央视军事","type":3,"api":"py_cctv","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/PY/央视军事.py"},
 {"key":"csp_py_中医基础","name":"📺PY┃中医基础","type":3,"api":"py_bilimd","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/PY/中医药.py"},
 {"key":"csp_py_中国文化","name":"📺PY┃中国文化","type":3,"api":"py_bilimd","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/PY/中国文化.py"}, 
-//{"key" : "py_cctvzh","name" : "📺央视综合 py","type" : 3,"api" : "py_cctv","searchable" : 0,"quickSearch" : 0,"filterable" : 1,"ext" : "https://agit.ai/l/o/raw/branch/o/o/py_cctvzh.py"},
-//{"key" : "py_cctvxw","name" : "📺央视新闻 py","type" : 3,"api" : "py_cctv","searchable" : 0,"quickSearch" : 0,"filterable" : 1,"ext" : "https://agit.ai/l/o/raw/branch/o/o/py_cctvxw.py"},
-//{"key" : "py_cctvzy","name" : "📺央视综艺 py","type" : 3,"api" : "py_cctv","searchable" : 0,"quickSearch" : 0,"filterable" : 1,"ext" : "https://agit.ai/l/o/raw/branch/o/o/py_cctvzy.py"},
-//{"key" : "py_cctvdy","name" : "📺央视电影 py","type" : 3,"api" : "py_cctv","searchable" : 0,"quickSearch" : 0,"filterable" : 1,"ext" : "https://agit.ai/l/o/raw/branch/o/o/py_cctvdy.py"},
-//{"key" : "py_cctvty","name" : "📺央视体育 py","type" : 3,"api" : "py_cctv","searchable" : 0,"quickSearch" : 0,"filterable" : 1,"ext" : "https://agit.ai/l/o/raw/branch/o/o/py_cctvty.py"},
-//{"key" : "py_cctvfz","name" : "📺央视法治 py","type" : 3,"api" : "py_cctv","searchable" : 0,"quickSearch" : 0,"filterable" : 1,"ext" : "https://agit.ai/l/o/raw/branch/o/o/py_cctv.py"},
-//{"key" : "py_cctvkj","name" : "📺央视科教 py","type" : 3,"api" : "py_cctv","searchable" : 0,"quickSearch" : 0,"filterable" : 1,"ext" : "https://agit.ai/l/o/raw/branch/o/o/py_cctvkj.py"},
-//{"key" : "py_cctvyy","name" : "📺央视音乐 py","type" : 3,"api" : "py_cctv","searchable" : 0,"quickSearch" : 0,"filterable" : 1,"ext" : "https://agit.ai/l/o/raw/branch/o/o/py_cctvyy.py"},
-//{"key" : "py_cctvse","name" : "📺央视少儿 py","type" : 3,"api" : "py_cctv","searchable" : 0,"quickSearch" : 0,"filterable" : 1,"ext" : "https://agit.ai/l/o/raw/branch/o/o/py_cctvse.py"},
-//{"key" : "py_cctvny","name" : "📺央视农业 py","type" : 3,"api" : "py_cctv","searchable" : 0,"quickSearch" : 0,"filterable" : 1,"ext" : "https://agit.ai/l/o/raw/branch/o/o/py_cctvny.py"},
-//{"key" : "py_cctvjs","name" : "📺央视军事 py","type" : 3,"api" : "py_cctv","searchable" : 0,"quickSearch" : 0,"filterable" : 1,"ext" : "https://agit.ai/l/o/raw/branch/o/o/py_cctvjs.py"},
-//{"key" : "py_cctvxq","name" : "📺央视戏曲 py","type" : 3,"api" : "py_cctv","searchable" : 0,"quickSearch" : 0,"filterable" : 1,"ext" : "https://agit.ai/l/o/raw/branch/o/o/py_cctvxq.py"},
+{"key" : "py_cctvxq","name" : "📺央视戏曲 py","type" : 3,"api" : "py_cctv","searchable" : 0,"quickSearch" : 0,"filterable" : 1,"ext" : "https://agit.ai/l/o/raw/branch/o/o/py_cctvxq.py"},
 
 {"key":"mtv_pc_小纸条源","name":"搜索┃小纸条源","type":3,"api":"csp_Gitcafe"       ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ali.饭太硬.ml/tok"},
 {"key":"mtv_pc_阿里盘搜","name":"搜索┃阿里盘搜","type":3,"api":"csp_AliPS"         ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ali.饭太硬.ml/tok"},
@@ -237,7 +220,6 @@
 ],
 "spider":"https://codeberg.org/xxpctv/ck/raw/branch/main/ms/505;md5;370C6D18EABFC24B6CD8038DA8433E37",
 
- //"spider":"https://codeberg.org/xxpctv/ck/raw/branch/main/ms/465;md5;F13C4E7787CFE144974C0625EDD12C4C",
 "lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3h4cGN0di9kaXkvcmF3L2JyYW5jaC9tYXN0ZXIvdGVzdC9kcy50eHQ="]}]}],
 "rules" : [{"host" : "*","rule" : ["douyinvod.com","/video/tos/cn/"]},{"host" : "*","rule" : ["default.365yg.com","/video/tos/cn/"]},{"host" : "umkan.com","rule" : ["play.videomiao.vip/API.php","time=","key=","path="]},{"host" : "*","rule" : ["/m3u8.php","path="]},{"host" : "zjmiao.com","rule" : ["play.videomiao.vip/API.php","time=","key=","path="]}],
 "parses":[
