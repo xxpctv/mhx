@@ -1,0 +1,40 @@
+{
+  "plugins": [
+    {
+      "name": "bilibili",
+      "url": "https://codeberg.org/xxpctv/ck/raw/branch/main/music/bilibili.js"
+    },
+    {
+      "name": "咪咕",
+      "url": "https://codeberg.org/xxpctv/ck/raw/branch/main/music/migu.js"
+    },
+    {
+      "name": "网易云",
+      "url": "https://codeberg.org/xxpctv/ck/raw/branch/main/music/netease.js"
+    },
+    {
+      "name": "全民K歌",
+      "url": "https://codeberg.org/xxpctv/ck/raw/branch/main/music/qmkg.js"
+    },
+    {
+      "name": "酷我",
+      "url": "https://codeberg.org/xxpctv/ck/raw/branch/main/music/kuwo.js"
+    },
+    {
+      "name": "千千音乐",
+      "url": "https://codeberg.org/xxpctv/ck/raw/branch/main/music/qianqian.js"
+    },
+    {
+      "name": "5sing",
+      "url": "https://codeberg.org/xxpctv/ck/raw/branch/main/music/5sing.js"
+    },
+    {
+      "name": "酷狗",
+      "url": "https://codeberg.org/xxpctv/ck/raw/branch/main/music/kugou.js"
+    },
+    {
+      "name": "QQ音乐",
+      "url": "https://codeberg.org/xxpctv/ck/raw/branch/main/music/qq.js"
+    }
+  ]
+}
