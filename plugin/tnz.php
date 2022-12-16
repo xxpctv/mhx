@@ -44,6 +44,10 @@
 {"key":"csp_xBPQ_zhi","name":"️🎾抓饭体育","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{\"分类url\":\"https://www.zhuafan.tech/sports-home/category/{cateId}\",\"分类\":\"全部$/all#足球$Football#篮球$Basketball#羽乒$Badminton#台球$Billiards#棒球$Baseball#户外$Outdoors#搏击$Wrestling#综合$Others#棋盘$Boardgame#电竞$Popular#网球$Tennis#排球$Volleyball#聊天$Chat#原声$Acoustic\",\"热门推荐\":\"1\",\"起始页\":\"1\",\"直接播放\":\"1\",\"数组\":\"{&&}\",\"图片\":\"imageUrl\\\":\\\"&&\\\"\",\"标题\":\"cname\\\":\\\"&&\\\"\",\"链接\":\"id\\\":\\\"&&\\\"\",\"链接前缀\":\"https://www.zhuafan.tech/\"}"},
 {"key":"csp_XYQBiu_310直播","name":"⚽三一零","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://codeberg.org/xxpctv/ck/raw/branch/main/ms/310.py","jar": "https://xn--m7r412advb92j21st65a.tk/vod;md5;C4BA98711FAC35DAFF17780D0817F5DC"},
 {"key":"csp_XYQBiu_17看","name":"🏀一起看","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://codeberg.org/xxpctv/ck/raw/branch/main/ms/17k.py","jar": "https://codeberg.org/xxpctv/ck/raw/branch/main/ms/XYQ;md5;BE3EF83F48564EE7763B810CB8CCBC53"},
+{"key": "dr_88看球","name": "🏀看球直播⚽","type": 1,"api": "https://drpyxxpctv-1.xxpctv.repl.co/vod?rule=88看球","searchable": 0,"quickSearch": 0,"filterable": 0},
+{"key": "dr_JRS看直播","name": "🏀看直播⚽","type": 1,"api": "https://drpyxxpctv-1.xxpctv.repl.co/vod?rule=JRS看直播","searchable": 0,"quickSearch": 0,"filterable": 0},
+{"key": "dr_310直播","name": "🏀体育直播⚽","type": 1,"api": "https://drpyxxpctv-1.xxpctv.repl.co/vod?rule=310直播","searchable": 0,"quickSearch": 0,"filterable": 0},
+{"key": "dr_JRKAN直播","name": "🏀球迷直播⚽","type": 1,"api": "https://drpyxxpctv-1.xxpctv.repl.co/vod?rule=JRKAN直播","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key":"DJ-XP-直播吧","name":"🏀直播8","type":3,"api":"csp_XPathMac","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/zhibo8.json"},
 {"key": "py_jrk","name": "🌩JR直播","type": 3,"api": "py_jrk","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/py_jrk.py"}, 
 {"key": "py_yytv","name": "🌩YY直播","type": 3,"api": "py_yytv","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/py_yytv.py"}, 
@@ -236,7 +240,8 @@
 {"key":"drpy_js_爱车MV","name":"MV | 爱车[js]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/爱车MV.js"},
 {"key":"drpy_js_豆瓣","name":"搜索 | 豆瓣[js]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/drpy.js"},
 {"key":"drpy_js_哔哩直播","name":"直播 | 哔哩[js]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/哔哩直播.js"},
-
+{"key":"dr_酷云77","name":"🐬酷云77(js)","type":3,"api":"https://agit.ai/868/STV/raw/branch/master/js/lib/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/868/STV/raw/branch/master/js/酷云77.js"},
+{"key":"dr_豆瓣","name":"🐬豆瓣荐片(js)","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/豆瓣.js"},
 {"key": "csp_xpath_dm84","name":"动漫巴士┃XPMF","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/xpath/%e5%8a%a8%e6%bc%ab%e5%b7%b4%e5%a3%ab.json"},
 {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":1,"playerType":1,"quickSearch":1,"filterable":0}
 
