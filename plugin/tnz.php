@@ -4,7 +4,7 @@
 {"key":"csp_77","name":"酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Lezhu","name":"乐猪影视","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1}, 
 {"key":"csp_xpath_qiumi","name": "🏀球迷","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://codeberg.org/xxpctv/ck/raw/branch/main/ms/sszb.json"},
-{"key":"drpy_js_JRKAN直播","name":"🏀JRKAN直播[js]","type":3,"api":"https://codeberg.org/xxpctv/ck/raw/branch/main/ms/drpy2.min.js","ext":"https://codeberg.org/xxpctv/ck/raw/branch/main/ms/JRKAN.js"},
+{"key":"drpy_js_JRKAN直播","name":"🏀球迷2[js]","type":3,"api":"https://codeberg.org/xxpctv/ck/raw/branch/main/ms/drpy2.min.js","ext":"https://codeberg.org/xxpctv/ck/raw/branch/main/ms/JRKAN.js"},
 {"key":"快看","name":"🎈快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Czsapp","name":"🏭厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"dr_豆瓣","name":"💳豆瓣dr","type":3,"api":"https://gitee.com/lytv/tv/raw/master/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://gitee.com/lytv/tv/raw/master/%E8%B1%86%E7%93%A3.js"},
