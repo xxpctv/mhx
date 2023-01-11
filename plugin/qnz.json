@@ -14,7 +14,8 @@
 {"key": "dr_JRS看直播","name": "🏀JRS看直播(t1)","type": 1,"api": "https://drpyxxpctv-1.xxpctv.repl.co/vod?rule=JRS看直播","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key": "dr_88看球","name": "🏀88看球(t1)","type": 1,"api": "https://drpyxxpctv-1.xxpctv.repl.co/vod?rule=88看球","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key": "dr_310直播","name": "🏀310直播(t1)","type": 1,"api": "https://drpyxxpctv-1.xxpctv.repl.co/vod?rule=310直播","searchable": 0,"quickSearch": 0,"filterable": 0},
-{"key": "dr_JRKAN直播","name": "🏀球赛直播(t1)","type": 1,"api": "https://drpyxxpctv-1.xxpctv.repl.co/vod?rule=JRKAN直播","searchable": 0,"quickSearch": 0,"filterable": 0},
+{"key": "JRKAN直播","name": "🏀球赛直播t1","type": 1,"api": "https://drpyxxpctv-1.xxpctv.repl.co/vod?rule=JRKAN直播","searchable": 0,"quickSearch": 0,"filterable": 0},
+
 {"key": "dr_voflix","name": "🌩voflix(t1)","type": 1,"api": "https://drpyxxpctv-1.xxpctv.repl.co/vod?rule=voflix","searchable": 2,"quickSearch": 0,"filterable": 1},
 {"key": "dr_厂长资源","name": "🌩厂长(t1)","type": 1,"api": "https://drpyxxpctv-1.xxpctv.repl.co/vod?rule=厂长资源","searchable": 2,"quickSearch": 0,"filterable": 0},
 {"key": "dr_IMAX影视","name": "🌩IMAX影视(t1)","type": 1,"api": "https://drpyxxpctv-1.xxpctv.repl.co/vod?rule=IMAX影视","searchable": 2,"quickSearch": 0,"filterable": 1},
