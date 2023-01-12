@@ -9,9 +9,6 @@
 {"key": "88看球","name": "🏀88看球t1","type": 1,"api": "https://drpyxxpctv-1.xxpctv.repl.co/vod?rule=88看球","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key": "310直播","name": "🏀310直播t1","type": 1,"api": "https://drpyxxpctv-1.xxpctv.repl.co/vod?rule=310直播","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key": "JRKAN直播","name": "🏀球赛直播t1","type": 1,"api": "https://drpyxxpctv-1.xxpctv.repl.co/vod?rule=JRKAN直播","searchable": 0,"quickSearch": 0,"filterable": 0},
-{"key": "dr_voflix","name": "🌩voflix(t1)","type": 1,"api": "https://drpyxxpctv-1.xxpctv.repl.co/vod?rule=voflix","searchable": 2,"quickSearch": 0,"filterable": 1},
-{"key": "dr_厂长资源","name": "🌩厂长(t1)","type": 1,"api": "https://drpyxxpctv-1.xxpctv.repl.co/vod?rule=厂长资源","searchable": 2,"quickSearch": 0,"filterable": 0},
-{"key": "dr_IMAX影视","name": "🌩IMAX影视(t1)","type": 1,"api": "https://drpyxxpctv-1.xxpctv.repl.co/vod?rule=IMAX影视","searchable": 2,"quickSearch": 0,"filterable": 1},
 
 {"key":"快看","name":"🎈快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Czsapp","name":"🏭厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
@@ -75,6 +72,9 @@
 {"key": "美食","name": "美食🅱","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://codeberg.org/xxpctv/ck/raw/branch/main/ms/%E7%BE%8E%E9%A3%9F0804.json","jar":"https://codeberg.org/xxpctv/ck/raw/branch/main/ms/bili1080.jar;md5;E80798750ECA57470F29D1942BCE39BB"},
 {"key":"csp_BBB","name":"🅱️bili","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://codeberg.org/xxpctv/ck/raw/branch/main/ms/BBB.json","jar":"https://codeberg.org/xxpctv/ck/raw/branch/main/ms/bili1080.jar;md5;E80798750ECA57470F29D1942BCE39BB"},
 {"key": "赛车","name": " 🅱越野","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://codeberg.org/xxpctv/ck/raw/branch/main/ms/yueye.json","jar":"https://codeberg.org/xxpctv/ck/raw/branch/main/ms/bili1080.jar;md5;E80798750ECA57470F29D1942BCE39BB"},
+{"key": "dr_voflix","name": "🌩voflix(t1)","type": 1,"api": "https://drpyxxpctv-1.xxpctv.repl.co/vod?rule=voflix","searchable": 2,"quickSearch": 0,"filterable": 1},
+{"key": "dr_厂长资源","name": "🌩厂长(t1)","type": 1,"api": "https://drpyxxpctv-1.xxpctv.repl.co/vod?rule=厂长资源","searchable": 2,"quickSearch": 0,"filterable": 0},
+{"key": "dr_IMAX影视","name": "🌩IMAX影视(t1)","type": 1,"api": "https://drpyxxpctv-1.xxpctv.repl.co/vod?rule=IMAX影视","searchable": 2,"quickSearch": 0,"filterable": 1},
 
 {"key":"csp_Anime1","name":"动漫","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"filterable": 1},
 
