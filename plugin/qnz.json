@@ -16,9 +16,9 @@
 {"key":"dr_酷云77","name":"🐬酷云77(js)","type":3,"api":"https://agit.ai/868/STV/raw/branch/master/js/lib/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/868/STV/raw/branch/master/js/酷云77.js"},
 {"key": "csp_xpath_qiumi","name":"🏀球赛直播","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://codeberg.org/xxpctv/ck/raw/branch/main/ms/sszb.json"},
 {"key":"dr_JRKAN直播","name":"球赛直播(js)","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/JRKAN直播.js"},
-//{"key": "dr_JRS看球网","name":"🏀JRS看球网","type":3,"api":"https://notabug.org/wlcmc1972/test/raw/master/jar/drpy2.js","ext":"https://notabug.org/wlcmc1972/test/raw/master/js/JRS%E7%9C%8B%E7%90%83%E7%BD%91.js","jar":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/p/kqw;md5;E80798750ECA57470F29D1942BCE39BB"},
-
-{"key": "dr_JRS看球网","name":"🏀JRS看球网","type":3,"api":"https://notabug.org/xxpctv/p/raw/master/drpy2.js","ext":"https://notabug.org/xxpctv/p/raw/master/JRS%e7%9c%8b%e7%90%83%e7%bd%91.js","jar":"https://notabug.org/xxpctv/p/raw/master/kqw;md5;E80798750ECA57470F29D1942BCE39BB"},
+{"key": "dr_JRS看球网","name":"🏀JRS看球网(js)","type":3,"api":"https://notabug.org/xxpctv/p/raw/master/drpy.min.js","ext":"https://notabug.org/xxpctv/p/raw/master/JRS%e7%9c%8b%e7%90%83%e7%bd%91.js"},
+{"key": "dr_310直播","name":"🏀310直播(js)","type":3,"api":"https://notabug.org/xxpctv/p/raw/master/drpy.min.js","ext":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/310%e7%9b%b4%e6%92%ad.js"},
+{"key": "dr_JRS看直播","name":"🏀JRS看直播(js)","type":3,"api":"https://notabug.org/xxpctv/p/raw/master/drpy.min.js","ext":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/JRS%e7%9c%8b%e7%9b%b4%e6%92%ad.js"},
 
 
 {"key": "JRS看直播","name": "🏀JRS看直播(t1)","type": 1,"api": "https://drpyxxpctv-1.xxpctv.repl.co/vod?rule=JRS看直播","searchable": 0,"quickSearch": 0,"filterable": 0},
