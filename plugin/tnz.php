@@ -9,8 +9,9 @@
 {"key":"csp_Lezhu","name":"乐猪影视","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1}, 
 {"key":"csp_xpath_qiumi","name": "🏀球迷","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://codeberg.org/xxpctv/ck/raw/branch/main/ms/sszb.json"},
 {"key":"dr_JRKAN直播","name":"🏀球迷(js)","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/JRKAN直播.js"},
-{"key": "dr_JRS看球网","name":"🏀JRS看球网","type":3,"api":"https://notabug.org/wlcmc1972/test/raw/master/jar/drpy2.js","ext":"https://notabug.org/wlcmc1972/test/raw/master/js/JRS%E7%9C%8B%E7%90%83%E7%BD%91.js"},
-//{"key": "dr_JRS看球网","name":"🏀JRS看球网","type":3,"api":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/p/drpy2.js","ext":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/JRS%e7%9c%8b%e7%90%83%e7%bd%91.js"},
+//{"key": "dr_JRS看球网","name":"🏀JRS看球网","type":3,"api":"https://notabug.org/wlcmc1972/test/raw/master/jar/drpy2.js","ext":"https://notabug.org/wlcmc1972/test/raw/master/js/JRS%E7%9C%8B%E7%90%83%E7%BD%91.js","jar":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/p/kqw;md5;E80798750ECA57470F29D1942BCE39BB"},
+{"key": "dr_JRS看球网","name":"🏀JRS看球网","type":3,"api":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/p/drpy2.js","ext":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/JRS%e7%9c%8b%e7%90%83%e7%bd%91.js","jar":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/p/kqw;md5;E80798750ECA57470F29D1942BCE39BB"},
+
 {"key": "JRS看直播","name": "🏀JRS看直播t1","type": 1,"api": "https://drpyxxpctv-1.xxpctv.repl.co/vod?rule=JRS看直播","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key": "88看球","name": "🏀88看球t1","type": 1,"api": "https://drpyxxpctv-1.xxpctv.repl.co/vod?rule=88看球","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key": "310直播","name": "🏀310直播t1","type": 1,"api": "https://drpyxxpctv-1.xxpctv.repl.co/vod?rule=310直播","searchable": 0,"quickSearch": 0,"filterable": 0},
