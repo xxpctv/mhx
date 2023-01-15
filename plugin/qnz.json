@@ -10,6 +10,7 @@
 {"key": "zhibo16","name": "🌍电视直播 ","type": 4,"api": "http://120.53.102.254/live?url=aHR0cHM6Ly9hZ2l0LmFpL1lvdXJzbWlsZTcvVFZCb3gvcmF3L2JyYW5jaC9tYXN0ZXIvbGl2ZS50eHQ=","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "zhibo17","name": "🌍电视直播2 ","type": 4,"api": "http://120.53.102.254/live?url=https://agit.ai/100/T/raw/branch/master/live.txt","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "zhibo18","name": "🌍电视直播3 ","type": 4,"api": "http://120.53.102.254/live?url=http://ht.grelighting.cn/html/zb.txt","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "zhibo19","name": "🌍电视直播4","type": 4,"api": "http://120.53.102.254/live?url=aHR0cDovL3huLS1paHF1MTBjbjRjLnhuLS16N3g5MDBhLmxvdmU6NjMvVFYvemIudHh0","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 {"key": "csp_Kunyu77","name": "⚡七七资源","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;04B747FECDF0AD9BAB5427ABF5EA24C9"},
 {"key":"drpy_js_豆瓣","name":"搜索 | 豆瓣[js]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/drpy.js"},
