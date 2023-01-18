@@ -1,5 +1,6 @@
 {
   "sites": [
+{"key": "春节","name": " 🧨 🧨春节 🧨🧨","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/%e6%98%a5%e8%8a%82.json","jar":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/CHUNJIE;md5;226DB2FC833312B73B0BF57C7DD41484"},
 {"key":"360_spider","name":"360影视","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key": "zhibo16","name": "🌍电视直播 ","type": 4,"api": "http://120.53.102.254/live?url=aHR0cHM6Ly9hZ2l0LmFpL1lvdXJzbWlsZTcvVFZCb3gvcmF3L2JyYW5jaC9tYXN0ZXIvbGl2ZS50eHQ=","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "zhibo17","name": "🌍电视直播2 ","type": 4,"api": "http://120.53.102.254/live?url=https://agit.ai/100/T/raw/branch/master/live.txt","searchable": 1,"quickSearch": 1,"filterable": 1},
@@ -288,6 +289,7 @@
 {"name":"w8","type": 0,"url": "https://jx.xmflv.com/?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"}}},
 {"name":"w11","type": 0,"url": "https://www.cygqw.com/jiexi/jiekou-2/?url="},
 {"name":"j11","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
+{"name":"j3","type":1,"url":"https://parse.ikunfk.cc/parse/sign/20221230?url=","header":{"User-Agent":"Mozilla/5.0"}},
 {"name":"可遇","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 {"name": "未知","type": 1,"url": "http://45.248.10.163:4433/json.php?wap=0&url="},
 {"name": "酷享","type": 1,"url": "http://pandown.pro/app/kxjx.php?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
