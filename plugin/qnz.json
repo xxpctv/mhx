@@ -6,6 +6,7 @@
 {"host":"www.agemys.cc","rule":["cdn-tos","obj/tos-cn"]},
 {"host":"zjmiao.com","rule":["play.videomiao.vip/API.php","time="]}],
 "sites": [
+{"key": "春节","name": " 🧨 🧨春节 🧨🧨","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/%e6%98%a5%e8%8a%82.json","jar":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/CHUNJIE;md5;226DB2FC833312B73B0BF57C7DD41484"},
 {"key": "360","name": "💘360影视","type": 3,"api": "csp_SP360","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "zhibo16","name": "🌍电视直播 ","type": 4,"api": "http://120.53.102.254/live?url=aHR0cHM6Ly9hZ2l0LmFpL1lvdXJzbWlsZTcvVFZCb3gvcmF3L2JyYW5jaC9tYXN0ZXIvbGl2ZS50eHQ=","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "zhibo17","name": "🌍电视直播2 ","type": 4,"api": "http://120.53.102.254/live?url=https://agit.ai/100/T/raw/branch/master/live.txt","searchable": 1,"quickSearch": 1,"filterable": 1},
@@ -216,6 +217,7 @@
 {"name":"w8","type": 0,"url": "https://jx.xmflv.com/?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"}}},
 {"name":"w11","type": 0,"url": "https://www.cygqw.com/jiexi/jiekou-2/?url="},
 {"name":"j11","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
+{"name":"j3","type":1,"url":"https://parse.ikunfk.cc/parse/sign/20221230?url=","header":{"User-Agent":"Mozilla/5.0"}},
 {"name":"可遇","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 {"name": "分享者","type": 1,"url": "http://110.42.2.115:880/analysis/json/?uid=2100&my=cqrtwyACDGLOXY0249&mgtv=app&url=","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","CL4K","renrenmi","ltnb","bilibili","1905","xigua"]}},
 {"name":"Q1解析","type":1,"url":"https://parse.ikunfk.cc/parse/sign/812a0f3b8a7ae9dbf90f3d7fac9c8cbc?url=","header":{"User-Agent":"Mozilla/5.0"}},
