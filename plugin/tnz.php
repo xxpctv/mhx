@@ -1,6 +1,6 @@
 {
   "sites": [
-{"key": "春节","name": " 🧨 🧨春节 🧨🧨","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/%e6%98%a5%e8%8a%82.json","jar":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/CHUNJIE;md5;226DB2FC833312B73B0BF57C7DD41484"},
+{"key": "春节","name": " 🧨 🧨春节 🧨🧨","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/%e6%98%a5%e8%8a%82.json","jar":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/506;md5;203FC17AA0BD99316692CE0BC08760B8"},
 {"key":"360_spider","name":"360影视","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key": "zhibo16","name": "🌍电视直播 ","type": 4,"api": "http://120.53.102.254/live?url=aHR0cHM6Ly9hZ2l0LmFpL1lvdXJzbWlsZTcvVFZCb3gvcmF3L2JyYW5jaC9tYXN0ZXIvbGl2ZS50eHQ=","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "zhibo17","name": "🌍电视直播2 ","type": 4,"api": "http://120.53.102.254/live?url=https://agit.ai/100/T/raw/branch/master/live.txt","searchable": 1,"quickSearch": 1,"filterable": 1},
