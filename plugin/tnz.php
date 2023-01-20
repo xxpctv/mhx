@@ -90,6 +90,11 @@
 {"key":"csp_BBB","name":"🅱️bili","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://codeberg.org/xxpctv/ck/raw/branch/main/ms/BBB.json","jar":"https://codeberg.org/xxpctv/ck/raw/branch/main/ms/bili1080.jar;md5;E80798750ECA57470F29D1942BCE39BB"},
 {"key": "赛车","name": " 🅱越野","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://codeberg.org/xxpctv/ck/raw/branch/main/ms/yueye.json","jar":"https://codeberg.org/xxpctv/ck/raw/branch/main/ms/bili1080.jar;md5;E80798750ECA57470F29D1942BCE39BB"},
 {"key": "户外" ,"name": "🅱️户外","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/%e6%88%b7%e5%a4%96.json","jar":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/506;md5;203FC17AA0BD99316692CE0BC08760B8"},
+{"key": "EXCEL", "name": "🅱️excel查询", "type": 3, "api": "csp_Bili", "searchable": 0, "quickSearch": 0, "filterable": 1, "ext": "https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/excel%e6%9f%a5%e8%af%a2.json","jar":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/506;md5;203FC17AA0BD99316692CE0BC08760B8"},
+
+{"key": "球类","name": "🅱️💎球类","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/%e7%90%83%e7%b1%bb.json","jar":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/506;md5;203FC17AA0BD99316692CE0BC08760B8"},
+
+
 
 {"key": "dr_voflix","name": "🌩voflix(t1)","type": 1,"api": "https://drpyxxpctv-1.xxpctv.repl.co/vod?rule=voflix","searchable": 2,"quickSearch": 0,"filterable": 1},
 {"key": "dr_厂长资源","name": "🌩厂长(t1)","type": 1,"api": "https://drpyxxpctv-1.xxpctv.repl.co/vod?rule=厂长资源","searchable": 2,"quickSearch": 0,"filterable": 0},
@@ -292,6 +297,7 @@
 {"name":"w11","type": 0,"url": "https://www.cygqw.com/jiexi/jiekou-2/?url="},
 {"name":"j11","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
 {"name":"j3","type":1,"url":"https://parse.ikunfk.cc/parse/sign/20221230?url=","header":{"User-Agent":"Mozilla/5.0"}},
+{"name":"懒懒","type":1,"url":"http://lanlan.ckflv.cn/?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},
 {"name":"可遇","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 {"name": "未知","type": 1,"url": "http://45.248.10.163:4433/json.php?wap=0&url="},
 {"name": "酷享","type": 1,"url": "http://pandown.pro/app/kxjx.php?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
