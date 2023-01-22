@@ -9,7 +9,7 @@
 
 {"key":"csp_77","name":"酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Lezhu","name":"乐猪影视","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1}, 
-{"key":"csp_xpath_qiumi","name": "🏀球迷","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://codeberg.org/xxpctv/ck/raw/branch/main/ms/sszb.json"},
+{"key":"csp_xpath_qiumi","name": "🏀球迷","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/xxpctv/nzhiban/raw/branch/master/p/sszb.json"},
 {"key":"DJ-XP-优直播","name":"🏀优直播","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/yzb.py"},
 {"key":"dr_JRKAN直播","name":"🏀球迷(js)","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/JRKAN直播.js"},
 {"key":"csp_XYQBiu_17看","name":"🏀一七看","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://codeberg.org/xxpctv/ck/raw/branch/main/ms/17k.py","jar": "https://codeberg.org/xxpctv/ck/raw/branch/main/ms/XYQ;md5;BE3EF83F48564EE7763B810CB8CCBC53"},
@@ -79,7 +79,7 @@
 {"key": "SPQQ","name": "🐧腾讯视频","type": 3,"api": "csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/sxj;md5;EDAAC605B8F6C297B19D34464721F869"},
 {"key":"csp_IQIYI","name":"🥝爱奇艺(官)","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.iqiq.io/liu673cn/box/main/sub/ext/qq_qiyi_mgtv.jpg"},
 {"key":"csp_MGTV","name":"🍋芒果TV(官)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.iqiq.io/liu673cn/box/main/sub/ext/qq_qiyi_mgtv.jpg"},
-{"key":"csp_Bili合集","name":" 🅱️哔哩哔哩(自制)","type": 3,"api": "csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://codeberg.org/xxpctv/ck/raw/branch/main/ms/B%E7%AB%99.txt","jar": "https://codeberg.org/xxpctv/ck/raw/branch/main/ms/bili1080.jar;md5;E80798750ECA57470F29D1942BCE39BB"},
+{"key":"csp_Bili合集","name":" 🅱️哔哩哔哩(自制)","type": 3,"api": "csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/p/B%e7%ab%99.txt","jar": "https://codeberg.org/xxpctv/ck/raw/branch/main/ms/bili1080.jar;md5;E80798750ECA57470F29D1942BCE39BB"},
 {"key":"舞蹈","name":" 🅱哔哩合集","type": 3,"api": "csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://codeberg.org/xxpctv/ck/raw/branch/main/ms/B%E7%AB%992.txt","jar":"https://codeberg.org/xxpctv/ck/raw/branch/main/ms/bili1080.jar;md5;E80798750ECA57470F29D1942BCE39BB"},
 {"key": "老年人频道","name": "🏮粤剧","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://codeberg.org/xxpctv/ck/raw/branch/main/ms/yueju.json","jar":"https://codeberg.org/xxpctv/ck/raw/branch/main/ms/bili1080.jar;md5;E80798750ECA57470F29D1942BCE39BB"},
 {"key": "csp_Bili","name":"🅱哔哩多分类","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://codeberg.org/xxpctv/ck/raw/branch/main/ms/Bili_3.json","jar": "https://codeberg.org/xxpctv/ck/raw/branch/main/ms/bili1080.jar;md5;E80798750ECA57470F29D1942BCE39BB"},
