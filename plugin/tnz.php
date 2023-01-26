@@ -9,10 +9,10 @@
 
 {"key":"csp_77","name":"酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Lezhu","name":"乐猪影视","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1}, 
-{"key":"csp_xpath_qiumi","name": "🏀球迷","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/xxpctv/nzhiban/raw/branch/master/p/sszb.json"},
-{"key":"DJ-XP-优直播","name":"🏀优直播","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/yzb.py"},
+{"key":"csp_xpath_qiumi","name": "🏀球迷","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/xxpctv/nzhiban/raw/branch/master/p/py_sszb.py"},
+{"key":"DJ-XP-优直播","name":"🏀优直播","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/p/py_yzb.py"},
 {"key":"dr_JRKAN直播","name":"🏀球迷(js)","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/JRKAN直播.js"},
-{"key":"csp_XYQBiu_17看","name":"🏀一七看","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://codeberg.org/xxpctv/ck/raw/branch/main/ms/17k.py","jar": "https://codeberg.org/xxpctv/ck/raw/branch/main/ms/XYQ;md5;BE3EF83F48564EE7763B810CB8CCBC53"},
+{"key":"csp_XYQBiu_17看","name":"🏀一七看","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/17.py","jar": "https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/XYQ;md5;BE3EF83F48564EE7763B810CB8CCBC53"},
 
 {"key": "dr_JRS看球网","name":"🏀JRS看球网(js)","type":3,"api":"https://notabug.org/xxpctv/p/raw/master/drpy.min.js","ext":"https://notabug.org/xxpctv/p/raw/master/JRS%e7%9c%8b%e7%90%83%e7%bd%91.js"},
 {"key": "dr_310直播","name":"🏀310直播(js)","type":3,"api":"https://notabug.org/xxpctv/p/raw/master/drpy.min.js","ext":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/310%e7%9b%b4%e6%92%ad.js"},

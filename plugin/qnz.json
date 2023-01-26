@@ -1,10 +1,5 @@
 {"spider": "https://codeberg.org/xxpctv/ck/raw/branch/main/ms/301;md5;4A4420350BE90A44734B505C1CCD49DA",
 "lives": [{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3h4cGN0di9kaXkvcmF3L2JyYW5jaC9tYXN0ZXIvdGVzdC9kcy50eHQ="]}]}],
-"rules":[
-{"host":"*","rule":["default.365yg.com"]},
-{"host":"dyxs20.com","rule":[".m3u8"]},
-{"host":"www.agemys.cc","rule":["cdn-tos","obj/tos-cn"]},
-{"host":"zjmiao.com","rule":["play.videomiao.vip/API.php","time="]}],
 "sites": [
 {"key": "春节","name": " 🧨🧨 🧨春节 🧨🧨🧨","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/%e6%98%a5%e8%8a%82.json","jar":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/506;md5;203FC17AA0BD99316692CE0BC08760B8"},
 {"key": "户外" ,"name": "🅱️户外","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/%e6%88%b7%e5%a4%96.json","jar":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/506;md5;203FC17AA0BD99316692CE0BC08760B8"},
@@ -15,8 +10,8 @@
 {"key": "zhibo17","name": "🌍电视直播2 ","type": 4,"api": "http://120.53.102.254/live?url=https://agit.ai/100/T/raw/branch/master/live.txt","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "zhibo18","name": "🌍电视直播3 ","type": 4,"api": "http://120.53.102.254/live?url=http://ht.grelighting.cn/html/zb.txt","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "zhibo19","name": "🌍电视直播4","type": 4,"api": "http://120.53.102.254/live?url=aHR0cDovL3huLS1paHF1MTBjbjRjLnhuLS16N3g5MDBhLmxvdmU6NjMvVFYvemIudHh0","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "csp_xpath_qiumi","name":"🏀球赛直播","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/xxpctv/nzhiban/raw/branch/master/p/sszb.json"},
-{"key":"DJ-XP-优直播","name":"🏀优直播","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/yzb.py"},
+{"key": "csp_xpath_qiumi","name":"🏀球赛直播","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/xxpctv/nzhiban/raw/branch/master/p/py_sszb.py"},
+{"key":"DJ-XP-优直播","name":"🏀优直播","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/p/py_yzb.py"},
 {"key":"dr_JRKAN直播","name":"球赛直播(js)","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/JRKAN直播.js"},
 
 {"key": "csp_Kunyu77","name": "⚡七七资源","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;04B747FECDF0AD9BAB5427ABF5EA24C9"},
