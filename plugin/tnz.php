@@ -13,6 +13,7 @@
 {"key":"DJ-XP-优直播","name":"🏀优直播","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/p/py_yzb.py"},
 {"key":"dr_JRKAN直播","name":"🏀球迷(js)","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/JRKAN直播.js"},
 {"key":"csp_XYQBiu_17看","name":"🏀一七看","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/17.py","jar": "https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/XYQ;md5;BE3EF83F48564EE7763B810CB8CCBC53"},
+{"key": "zhibo20","name": "📺︎电视点播","type": 4,"api": "http://120.53.102.254/live?url=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9yYXkvdHZsaXZlLnR4dA","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 {"key": "dr_JRS看球网","name":"🏀JRS看球网(js)","type":3,"api":"https://notabug.org/xxpctv/p/raw/master/drpy.min.js","ext":"https://notabug.org/xxpctv/p/raw/master/JRS%e7%9c%8b%e7%90%83%e7%bd%91.js"},
 {"key": "dr_310直播","name":"🏀310直播(js)","type":3,"api":"https://notabug.org/xxpctv/p/raw/master/drpy.min.js","ext":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/310%e7%9b%b4%e6%92%ad.js"},
@@ -97,6 +98,14 @@
 {"key": "PS","name": "🅱️PS","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/PS.json","jar":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/506;md5;203FC17AA0BD99316692CE0BC08760B8"},
 
 {"key": "足球","name": " 🅱️足球","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/%e7%90%83%e6%98%9f.json","jar":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/506;md5;203FC17AA0BD99316692CE0BC08760B8"},
+{"key":"书法","name":"🅱️书法国画","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/cacifer/xyz/raw/branch/master/main/%e4%b9%a6%e6%b3%95%e5%9b%bd%e7%94%bb.json","jar":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/506;md5;203FC17AA0BD99316692CE0BC08760B8"},
+
+{"key":"园艺","name":"🅱️园艺","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/cacifer/xyz/raw/branch/master/main/%e5%9b%ad%e8%89%ba%e6%a0%bd%e5%9f%b9.json","jar":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/506;md5;203FC17AA0BD99316692CE0BC08760B8"},
+{"key":"手工","name":"🅱️手工","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/cacifer/xyz/raw/branch/master/main/%e5%a5%87%e5%b7%a7%e6%89%8b%e5%b7%a5.json","jar":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/506;md5;203FC17AA0BD99316692CE0BC08760B8"},
+
+{"key":"练字","name":"🅱️传统技法","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/%e7%bb%83%e5%ad%97.json","jar":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/506;md5;203FC17AA0BD99316692CE0BC08760B8"},
+
+{"key":"绘画","name":"🅱️绘画","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/%e7%bb%98%e7%94%bb.json","jar":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/506;md5;203FC17AA0BD99316692CE0BC08760B8"},
 
 
 {"key": "dr_voflix","name": "🌩voflix(t1)","type": 1,"api": "https://drpyxxpctv-1.xxpctv.repl.co/vod?rule=voflix","searchable": 2,"quickSearch": 0,"filterable": 1},

@@ -13,7 +13,7 @@
 {"key": "csp_xpath_qiumi","name":"🏀球赛直播","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/xxpctv/nzhiban/raw/branch/master/p/py_sszb.py"},
 {"key":"DJ-XP-优直播","name":"🏀优直播","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/p/py_yzb.py"},
 {"key":"dr_JRKAN直播","name":"球赛直播(js)","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/JRKAN直播.js"},
-
+{"key": "zhibo20","name": "📺︎电视点播","type": 4,"api": "http://120.53.102.254/live?url=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9yYXkvdHZsaXZlLnR4dA","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_Kunyu77","name": "⚡七七资源","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;04B747FECDF0AD9BAB5427ABF5EA24C9"},
 {"key":"drpy_js_豆瓣","name":"搜索 | 豆瓣[js]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/drpy.js"},
 {"key":"dr_酷云77","name":"🐬酷云77(js)","type":3,"api":"https://agit.ai/868/STV/raw/branch/master/js/lib/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/868/STV/raw/branch/master/js/酷云77.js"},
@@ -97,6 +97,15 @@
 
 {"key": "足球","name": " 🅱️足球","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/%e7%90%83%e6%98%9f.json","jar":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/506;md5;203FC17AA0BD99316692CE0BC08760B8"},
 
+{"key":"书法","name":"🅱️书法国画","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/cacifer/xyz/raw/branch/master/main/%e4%b9%a6%e6%b3%95%e5%9b%bd%e7%94%bb.json","jar":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/506;md5;203FC17AA0BD99316692CE0BC08760B8"},
+
+{"key":"园艺","name":"🅱️园艺","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/cacifer/xyz/raw/branch/master/main/%e5%9b%ad%e8%89%ba%e6%a0%bd%e5%9f%b9.json","jar":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/506;md5;203FC17AA0BD99316692CE0BC08760B8"},
+{"key":"手工","name":"🅱️手工","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/cacifer/xyz/raw/branch/master/main/%e5%a5%87%e5%b7%a7%e6%89%8b%e5%b7%a5.json","jar":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/506;md5;203FC17AA0BD99316692CE0BC08760B8"},
+
+{"key":"练字","name":"🅱️传统技法","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/%e7%bb%83%e5%ad%97.json","jar":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/506;md5;203FC17AA0BD99316692CE0BC08760B8"},
+
+{"key":"绘画","name":"🅱️绘画","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/%e7%bb%98%e7%94%bb.json","jar":"https://agit.ai/xxpctv/nzhiban/raw/branch/master/ziyong/506;md5;203FC17AA0BD99316692CE0BC08760B8"},
+
 {"key": "dr_voflix","name": "🌩voflix(t1)","type": 1,"api": "https://drpyxxpctv-1.xxpctv.repl.co/vod?rule=voflix","searchable": 2,"quickSearch": 0,"filterable": 1},
 {"key": "dr_厂长资源","name": "🌩厂长(t1)","type": 1,"api": "https://drpyxxpctv-1.xxpctv.repl.co/vod?rule=厂长资源","searchable": 2,"quickSearch": 0,"filterable": 0},
 {"key": "dr_IMAX影视","name": "🌩IMAX影视(t1)","type": 1,"api": "https://drpyxxpctv-1.xxpctv.repl.co/vod?rule=IMAX影视","searchable": 2,"quickSearch": 0,"filterable": 1},
@@ -176,6 +185,8 @@
 {"key": "csp_xBPQ_电视直播1", "name": "🍂电视直播", "type": 3, "api": "csp_xBPQ", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "{\"分类\":\"电视直播$ys.html#\",\"主页url\":\"http://www.lu1.cc/c/tv/sjtv/\",\"分类url\":\"http://www.lu1.cc/c/tv/sjtv/{cteId}\",\"图片\":\"http://\",\"播放图片\":\"http://\",\"不分线路\":\"1\"}"},  
 {"key": "csp_xBPQ_电视直播2", "name": "🍂电视直播", "type": 3, "api": "csp_xBPQ", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "{\"分类\":\"电视直播$ys.html#\",\"主页url\":\"http://www.lu1.cc/c/tv/sjtv/\",\"分类url\":\"http://www.lu1.cc/c/tv/sjtv/{cteId}\",\"图片\":\"http://\",\"播放图片\":\"http://\",\"不分线路\":\"1\"}"},  
 {"key": "csp_xBPQ_CCTV", "name": "🍂CCTV频道", "type": 3, "api": "csp_xBPQ", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/xBPQcctv.json"}, 
+{"key":"csp_xBPQ_爱看","name":"🍀爱看（xBPQ）","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/爱看.json"},
+
 
 {"key":"csp_biubiu_影视工厂","name":"🥒影视工厂(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/影视工厂.json"},
 {"key":"csp_biubiu_小强迷","name":"🥒小强迷(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/小强迷.json"},
