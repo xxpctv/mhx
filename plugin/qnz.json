@@ -7,6 +7,18 @@
 {"key":"PanSou","name":"😽盘搜","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://agit.ai/xxpctv/nzhiban/raw/branch/master/p/yp.py"},
 {"key":"AliPS","name":"😻盘搜","type":3,"api":"csp_AliPS","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://agit.ai/xxpctv/nzhiban/raw/branch/master/p/yp.py","jar":"https://gitea.com/Yoursmile2/Yoursmile/raw/branch/main/cs.txt"},
 {"key":"Gitcafe","name":"📜小纸条","type": 3,"api":"csp_Gitcafe","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://agit.ai/xxpctv/nzhiban/raw/branch/master/p/yp.py"},
+ {
+            "key": "紙條",
+            "name": "🔖紙條",
+            "type": 3,
+            "api": "csp_Paper",
+            "searchable": "1",
+            "quickSearch": "1",
+            "filterable": "1",
+            "ext": "https://codeberg.org/kkdy/box/raw/branch/main/token.json",
+            "jar": "https://agit.ai/Ltang/Tvsy/raw/branch/master/jar/cs.jar"
+        },
+
 {"key":"FindZY","name":"🦊找资源","type":3,"api":"csp_Zhaozy","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://agit.ai/xxpctv/nzhiban/raw/branch/master/p/yp.py","jar":"https://gitea.com/Yoursmile11/ppcat/raw/branch/master/ts.jar"},
 {"key":"csp_Yisou","name":"🆎易搜","type":3,"api":"csp_Yisou","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://agit.ai/xxpctv/nzhiban/raw/branch/master/p/yp.py"},
 {"key":"csp_Upyunso","name":"☁️Up云搜","type":3,"api":"csp_Upyunso","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://agit.ai/xxpctv/nzhiban/raw/branch/master/p/yp.py"},
